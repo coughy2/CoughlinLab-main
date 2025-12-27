@@ -17,7 +17,7 @@ sections:
       text: |
         We focus on rare, neurometabolic disorders. We aim to understand biological and disease mechansims, develop novel therapies, and help implement proven treatments into clinical care. We believe in patient-centered research and combine rigorous scientific methods with patient engagement approaches.
       primary_action:
-        text: Join Our Team
+        text: Meet Our Team
         url: '#team'
         icon: hero/user-group
       secondary_action:
@@ -54,11 +54,11 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "50+"
+        - statistic: "70+"
           description: Publications in top-tier journals
           sub_metric: Nature, Science, Cell, PNAS
           icon: hero/document-text
-        - statistic: "15"
+        - statistic: "5"
           description: Brilliant researchers and scientists
           sub_metric: From 8 countries worldwide
           icon: hero/user-group
@@ -83,11 +83,11 @@ sections:
       subtitle: Pushing the Boundaries of Science
       text: Our lab conducts cutting-edge research across multiple domains, combining computational methods with experimental validation
       items:
-        - name: Computational Biology
-          description: Developing state-of-the-art algorithms for genomic analysis, protein structure prediction, and systems biology modeling
-          icon: hero/beaker
+        - name: Rare Diseases
+          description: Natural history studies enhance our understanding of disease, help set research priorities, and provides historical data for clincial trials  
+          icon: emoji/hospital
           gradient: from-green-400 to-emerald-600
-          status: active
+          status: enrolling
           topics:
             - Metabolomics
             - Proteomics
@@ -99,9 +99,9 @@ sections:
             text: Explore Projects
             url: /research/computational-biology
             
-        - name: Rare Disease
+        - name: Functional 
           description: Advancing deep learning methods for scientific discovery, with focus on interpretable AI and physics-informed neural networks
-          icon: hero/cpu-chip
+          icon: hero/beaker
           gradient: from-purple-400 to-pink-600
           status: active
           topics:
@@ -117,9 +117,9 @@ sections:
             
         - name: Materials Science
           description: Designing novel materials through computational modeling and machine learning-guided discovery
-          icon: emoji/atom_symbol
+          icon: emoji/pill
           gradient: from-blue-400 to-indigo-600
-          status: emerging
+          status: active
           topics:
             - Nanomaterials
             - Quantum Materials
@@ -133,7 +133,7 @@ sections:
             url: /research/materials-science
       cta:
         text: Active Research Projects
-        url: /#research
+        url: /#projects
         icon: hero/arrow-right
     design:
       layout: cards
@@ -178,7 +178,7 @@ sections:
     id: team
     content:
       title: Meet Our Team
-      subtitle: 'World-class researchers pushing the boundaries of science'
+      subtitle: 'Dedicated team of scientists and students focused on rare disease'
       text: 'Our diverse team of researchers brings together expertise from multiple disciplines to tackle the most challenging problems in computational biology and machine learning.'
       user_groups:
         - Researchers
