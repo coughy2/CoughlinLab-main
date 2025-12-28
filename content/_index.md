@@ -51,50 +51,24 @@ sections:
         #     brightness: 0.6
         #     contrast: 1.1
 
-  - block: stats
-    content:
-      items:
-        - statistic: "70+"
-          description: Publications in top-tier journals
-          sub_metric: Nature, Science, Cell, PNAS
-          icon: hero/document-text
-        - statistic: "5"
-          description: Brilliant researchers and scientists
-          sub_metric: From 8 countries worldwide
-          icon: hero/user-group
-        - statistic: "$5M"
-          description: Active research funding
-          sub_metric: NSF, NIH, DOE grants
-          icon: hero/currency-dollar
-        - statistic: "12"
-          description: Active research projects
-          sub_metric: Across 3 major domains
-          icon: hero/beaker
-    design:
-      layout: cards
-      # Section background color (CSS class)
-      css_class: "bg-gradient-to-b from-primary-50 to-white dark:from-primary-900/20 dark:to-gray-800"
-      spacing:
-        padding: ["3rem", 0, "3rem", 0]
-
   - block: research-areas
     content:
       title: Research Focus Areas
       subtitle: " "
       text: As a translational research lab, we aim to make real world impact by moving through various research stages such as basic science, preclincial studies, and clinical application. 
       items:
-        - name: Disease Mechanism
-          description: Natural history studies enhance our understanding of disease, help set research priorities, and provides historical data for clincial trials  
+        - name: Disease Mechanisms
+          description: Patient samples and disease models help us understand the cause of disease. Biochemical studies identify biomakers for diagnosis & treatment
           icon: hero/beaker
           gradient: from-purple-400 to-pink-600
           status: active
           topics:
             - Metabolomics
-            - Proteomics
-            - Genomics  
-          team_size: 12
-          publications: 45+
-          funding: $2.5M NSF/NIH
+            - Genomics
+            - Proteomics  
+          team_size: 5
+          publications: 70+
+          funding: NIH/Philanthropy
           cta:
             text: Explore Projects
             url: /research/computational-biology
@@ -105,12 +79,11 @@ sections:
           gradient: from-blue-400 to-indigo-600
           status: active
           topics:
-            - Disease modeling
             - Preclinical studies
             - Genetic therapies
-          team_size: 8
-          publications: 32+
-          funding: $1.8M NSF
+          team_size: 5
+          publications: 70+
+          funding: NIH/Philanthropy
           cta:
             text: View Research
             url: /research/machine-learning
@@ -121,12 +94,11 @@ sections:
           gradient: from-green-400 to-emerald-600 
           status: enrolling
           topics:
-            - Nanomaterials
-            - Quantum Materials
+            - Clinical outcomes
             - Study design 
-          team_size: 6
-          publications: 28+
-          funding: $1.2M DOE
+          team_size: 5
+          publications: 70+
+          funding: NIH/Philanthropy
           cta:
             text: Learn more or enroll 
             url: /research/materials-science
