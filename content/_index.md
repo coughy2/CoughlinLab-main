@@ -80,14 +80,14 @@ sections:
   - block: research-areas
     content:
       title: Research Focus Areas
-      subtitle: Pushing the Boundaries of Science
-      text: Our lab conducts cutting-edge research across multiple domains, combining computational methods with experimental validation
+      subtitle: " "
+      text: As a translational research lab, we aim to make real world impact by moving through various research stages such as basic science, preclincial studies, and clinical application. 
       items:
-        - name: Rare Diseases
+        - name: Disease Mechanism
           description: Natural history studies enhance our understanding of disease, help set research priorities, and provides historical data for clincial trials  
-          icon: emoji/hospital
-          gradient: from-green-400 to-emerald-600
-          status: enrolling
+          icon: hero/beaker
+          gradient: from-purple-400 to-pink-600
+          status: active
           topics:
             - Metabolomics
             - Proteomics
@@ -99,15 +99,15 @@ sections:
             text: Explore Projects
             url: /research/computational-biology
             
-        - name: Functional 
-          description: Advancing deep learning methods for scientific discovery, with focus on interpretable AI and physics-informed neural networks
-          icon: hero/beaker
-          gradient: from-purple-400 to-pink-600
+        - name: Therapeutic Advances 
+          description: Preclinical models are used to study genetic based treatments. We partner with scientists and pharma companies also focused on rare diseases
+          icon: emoji/pill
+          gradient: from-blue-400 to-indigo-600
           status: active
           topics:
-            - Preclinical models
-            - Computer Vision
-            - NLP
+            - Disease modeling
+            - Preclinical studies
+            - Genetic therapies
           team_size: 8
           publications: 32+
           funding: $1.8M NSF
@@ -115,21 +115,20 @@ sections:
             text: View Research
             url: /research/machine-learning
             
-        - name: Materials Science
-          description: Designing novel materials through computational modeling and machine learning-guided discovery
-          icon: emoji/pill
-          gradient: from-blue-400 to-indigo-600
-          status: active
+        - name: Rare Disease Studies 
+          description: Natural history studies enhance our understanding of disease, set research priorities, and provide historical data for clincial trials  
+          icon: emoji/hospital
+          gradient: from-green-400 to-emerald-600 
+          status: enrolling
           topics:
             - Nanomaterials
             - Quantum Materials
-            - Energy Storage
-            - Catalysis
+            - Study design 
           team_size: 6
           publications: 28+
           funding: $1.2M DOE
           cta:
-            text: Learn More
+            text: Learn more or enroll 
             url: /research/materials-science
       cta:
         text: Active Research Projects
