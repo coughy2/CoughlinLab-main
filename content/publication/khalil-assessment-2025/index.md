@@ -1,0 +1,64 @@
+---
+title: Assessment of urinary 6-oxo-pipecolic acid as a biomarker for ALDH7A1 deficiency
+authors:
+- Youssef Khalil
+- Emma Footitt
+- Reddy Vootukuri
+- Michael F. Wempe
+- Curtis R. Coughlin
+- Spyros Batzios
+- Matthew P. Wilson
+- Viktor Kožich
+- Peter T. Clayton
+- Philippa B. Mills
+date: '2025-01-01'
+publishDate: '2025-12-29T01:49:05.171185Z'
+publication_types:
+- article-journal
+publication: '*J Inherit Metab Dis*'
+doi: 10.1002/jimd.12783
+abstract: ALDH7A1 deficiency is an epileptic encephalopathy whose seizures respond
+  to treatment with supraphysiological doses of pyridoxine. It arises as a result
+  of damaging variants in ALDH7A1, a gene in the lysine catabolism pathway. α-Aminoadipic
+  semialdehyde (α-AASA) and Δ1-piperideine-6-carboxylate (P6C), which accumulate because
+  of the block in the lysine pathway, are diagnostic biomarkers for this disorder.
+  Recently, it has been reported that 6-oxo-pipecolic acid (6-oxo-PIP) also accumulates
+  in the urine, CSF and plasma of ALDH7A1-deficient individuals and that, given its
+  improved stability, it may be a more suitable biomarker for this disorder. This
+  study measured 6-oxo-PIP in urine from a cohort of 30 patients where α-AASA was
+  elevated and showed that it was above the normal range in all those above 6 months
+  of age. However, 6-oxo-PIP levels were within the normal range in 33% of the patients
+  below 6 months of age. Levels increased with age and correlated with a decrease
+  in α-AASA levels. Longitudinal analysis of urine samples from ALDH7A1-deficient
+  patients who were on a lysine restricted diet whilst receiving supraphysiological
+  doses of pyridoxine showed that levels of 6-oxo-PIP remained elevated whilst α-AASA
+  decreased. Similar to α-AASA, we found that elevated urinary excretion of 6-oxo-PIP
+  can also occur in individuals with molybdenum cofactor deficiency. This study demonstrates
+  that urinary 6-oxo-PIP may not be a suitable biomarker for ALDH7A1 deficiency in
+  neonates. However, further studies are needed to understand the biochemistry leading
+  to its accumulation and its potential long-term side effects.
+tags:
+- 2-Aminoadipic Acid
+- 6‐oxo‐pipecolic acid
+- Aldehyde Dehydrogenase
+- Aldehyde Dehydrogenase
+- Mitochondrial
+- ALDH7A1 deficiency
+- aminoadipic semialdehyde
+- Biomarkers
+- Child
+- Child
+- Preschool
+- Epilepsy
+- Female
+- Humans
+- Infant
+- Infant
+- Newborn
+- Lysine
+- Male
+- Pipecolic Acids
+- piperideine‐6‐carboxylate
+- Pyridoxine
+- pyridoxine‐dependent epilepsy
+---

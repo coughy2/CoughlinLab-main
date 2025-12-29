@@ -1,0 +1,54 @@
+---
+title: Nonketotic Hyperglycinemia
+authors:
+- Johan LK Van Hove
+- Curtis Coughlin
+- Michael Swanson
+- Julia B. Hennermann
+date: '1993-01-01'
+publishDate: '2025-12-29T01:49:05.347978Z'
+publication_types:
+- chapter
+publication: '*GeneReviews®*'
+abstract: 'Nonketotic hyperglycinemia (NKH) is the inborn error of glycine metabolism
+  defined by deficient activity of the glycine cleavage enzyme system (GCS), which
+  results in accumulation of large quantities of glycine in all body tissues including
+  the brain. Based on ultimate outcome NKH is categorized into severe NKH (no developmental
+  progress and intractable epilepsy) and attenuated NKH (variable developmental progress
+  and treatable or no epilepsy). The majority of children with NKH have onset in the
+  neonatal period manifest as progressive lethargy evolving into profound coma and
+  marked hypotonia; 85% have severe NKH and 15% attenuated NKH. Those with onset between
+  two weeks and three months typically present with hypotonia; 50% have severe NKH
+  and 50% attenuated NKH. Those with onset after age three months have attenuated
+  NKH. Severe versus attenuated NKH is consistent within families, but the degree
+  of developmental progress in those with attenuated NKH can vary., The diagnosis
+  of NKH is established in a proband with elevated glycine in plasma and CSF, a compatible
+  pattern on brain imaging, and either biallelic pathogenic variants in one of the
+  genes encoding the protein subunits of the GCS identified on molecular genetic testing
+  or deficient activity of the GCS (without deficiency of cofactors such as enzyme-bound
+  lipoate or pyridoxal phosphate)., Treatment of manifestations:  Severe NKH. No treatment
+  is effective in changing the natural history of developmental delays, spasticity,
+  and intractable epilepsy, but treatment with benzoate to lower glycine improves
+  attentiveness and facilitates seizure management. Attenuated NKH. Current treatment
+  is reduction of plasma concentration of glycine by administration of sodium benzoate
+  and blockade of overstimulated NMDA receptors. Surveillance: In the first years
+  of life: routine developmental assessments and neurologic evaluations. Monitoring
+  for scoliosis and hip dysplasia in severely affected individuals; gastrointestinal
+  issues; and pulmonary function particularly in children who develop recurrent respiratory
+  infections. Agents/circumstances to avoid: Valproate, which raises blood and CSF
+  glycine concentrations and may increase seizure frequency; vigabatrin, which has
+  resulted in rapid loss of function when used to treat seizures, particularly in
+  those with attenuated NKH who have West syndrome., NKH is inherited in an autosomal
+  recessive manner. The parents of an affected individual are typically heterozygotes
+  (i.e., carriers of one NKH-related pathogenic variant); however, de novo pathogenic
+  variants occur in approximately 1% of individuals with NKH. If both parents are
+  heterozygous for one pathogenic variant, each sib of an affected individual has
+  at conception a 25% chance of being affected, a 50% chance of being an asymptomatic
+  carrier, and a 25% chance of being unaffected and not a carrier. Once the pathogenic
+  variants in an NKH-related gene have been identified in an affected family member,
+  carrier testing for at-risk relatives and prenatal and preimplantation genetic testing
+  are possible.'
+links:
+- name: URL
+  url: http://www.ncbi.nlm.nih.gov/books/NBK1357/
+---

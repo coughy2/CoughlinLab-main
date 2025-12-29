@@ -1,0 +1,68 @@
+---
+title: Cognitive and neurological outcome of patients in the Dutch pyridoxine-dependent
+  epilepsy (PDE-ALDH7A1) cohort, a cross-sectional study
+authors:
+- M. Strijker
+- L. A. Tseng
+- L. K. van Avezaath
+- M. a. M. Oude Luttikhuis
+- T. Ketelaar
+- C. R. Coughlin
+- M. A. Coenen
+- F. J. van Spronsen
+- M. Williams
+- M. C. de Vries
+- H. E. Westerlaan
+- L. A. Bok
+- C. D. M. van Karnebeek
+- R. J. Lunsing
+date: '2021-07-01'
+publishDate: '2025-12-29T01:49:05.633867Z'
+publication_types:
+- article-journal
+publication: '*Eur J Paediatr Neurol*'
+doi: 10.1016/j.ejpn.2021.06.001
+abstract: "BACKGROUND: Pyridoxine monotherapy in PDE-ALDH7A1 often results in adequate
+  seizure control, but neurodevelopmental outcome varies. Detailed long-term neurological
+  outcome is unknown. Here we present the cognitive and neurological features of the
+  Dutch PDE-ALDH7A1 cohort. METHODS: Neurological outcome was assessed in 24 patients
+  (age 1-26 years); classified as normal, complex minor neurological dysfunction (complex
+  MND) or abnormal. Intelligence quotient (IQ) was derived from standardized IQ tests
+  with five severity levels of intellectual disability (ID). MRI's and treatments
+  were assessed. RESULTS: Ten patients (42%) showed unremarkable neurological examination,
+  11 (46%) complex MND, and 3 (12%) cerebral palsy (CP). Minor coordination problems
+  were identified in 17 (71%), fine motor disability in 11 (46%), posture/muscle tone
+  deviancies in 11 (46%) and abnormal reflexes in 8 (33%). Six patients (25%) had
+  an IQ textgreater 85, 7 (29%) borderline, 7 (29%) mild, 3 (13%) moderate, and 1
+  severe ID. Cerebral ventriculomegaly on MRI was progressive in 11. Three patients
+  showed normal neurologic exam, IQ, and MRI. Eleven patients were treated with pyridoxine
+  only and 13 by additional lysine reduction therapy (LRT). LRT started at age textless3
+  years demonstrated beneficial effect on IQ results in 3 patients. DISCUSSION: Complex
+  MND and CP occurred more frequently in PDE-ALDH7A1 (46% and 12%) than in general
+  population (7% and 0.2%, Peters et al., 2011, Schaefer et al., 2008). Twenty-five
+  percent had a normal IQ. Although LRT shows potential to improve outcomes, data
+  are heterogeneous in small patient numbers. More research with longer follow-up
+  via the International PDE Registry (www.pdeonline.org) is needed."
+tags:
+- Adolescent
+- Adult
+- Aldehyde Dehydrogenase
+- Child
+- Child
+- Preschool
+- Cognition
+- Cross-Sectional Studies
+- Epilepsy
+- Humans
+- Infant
+- Intellectual disability
+- Lysine reduction therapies
+- Motor Disorders
+- MRI
+- Neurological outcome
+- Persons with Disabilities
+- Pyridoxine
+- Pyridoxine-dependent epilepsy
+- Vitamin B6
+- Young Adult
+---
