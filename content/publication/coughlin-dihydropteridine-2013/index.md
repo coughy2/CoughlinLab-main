@@ -1,0 +1,37 @@
+---
+title: 'Dihydropteridine reductase deficiency and treatment with tetrahydrobiopterin:
+  a case report'
+authors:
+- Curtis R. Coughlin
+- Keith Hyland
+- Rebecca Randall
+- Can Ficicioglu
+date: '2013-01-01'
+publishDate: '2025-12-29T01:49:05.527437Z'
+publication_types:
+- article-journal
+publication: '*JIMD Rep*'
+doi: 10.1007/8904_2012_202
+abstract: Dihydropteridine reductase (DHPR) deficiency is a genetic disorder of tetrahydrobiopterin
+  (BH4) regeneration and may present with hyperphenylalaninemia, microcephaly, hypotonia,
+  mental retardation, and convulsions. BH4 is an essential cofactor for the hydroxylation
+  of aromatic amino acids and a deficiency of BH4 results in decreased synthesis of
+  dopamine and serotonin. We present a 27-month-old female patient with DHPR deficiency
+  who was treated with L-dopa/carbidopa (2 mg/kg, four times per day), 5-hydroxytryptophan
+  (2 mg/kg, four times per day), folinic acid (10 mg/day), and BH4 supplementation
+  (20 mg/kg, twice a day). Although remarkable clinical improvement with normal plasma
+  phenylalanine (Phe) levels and increased phenylalanine tolerance was noted 1 month
+  after the treatment, CSF neurotransmitter metabolites did not improve. BH4 supplementation
+  was increased to 40 mg/kg/day and the CSF study was repeated 1 month later. There
+  was no significant change of CSF neurotransmitters, BH4 or BH2 levels but plasma
+  Phe level was within normal range. Surprisingly, she had developmental improvement
+  noted at 1-month and 3-month visits following an augmented neurotransmitter and
+  BH4 treatment. She was able to pull herself to the standing position and sit down
+  on her own. She was also noted to be more alert and responsive following treatment.
+  Her expressive language did not improve, although her receptive language was markedly
+  improved. The above treatment improved patient's clinical findings, normalized blood
+  Phe levels, and increased Phe tolerance in the diet, but neither 20 nor 40 mg/kg/day
+  BH4 supplementation corrected neurotransmitter or BH4 levels or increased BH2 level
+  in CSF. Further studies are needed to find the optimal management plan for patients
+  with DHPR deficiency.
+---
