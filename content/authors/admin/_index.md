@@ -18,11 +18,9 @@ bio: Translational researcher focused on rare diseases and bioethics
 
 # Interests to show in About widget
 interests:
-  - Machine Learning & AI
-  - Computational Biology
-  - Drug Discovery
-  - Scientific Computing
-  - Open Science
+  - Inborn errors of metabolism
+  - Clinical outcomes
+  - Bioethics
 
 # Education to show in About widget
 education:
@@ -77,10 +75,10 @@ skills:
 social:
   - icon: hero/envelope
     link: 'mailto:curtis.coughlin@cuanschutz.edu'
-  - icon: brands/google-scholar
-    link: https://scholar.google.com/citations?user=Qfj6eIMAAAAJ&hl=en
   - icon: brands/linkedin
     link: https://www.linkedin.com/in/curtiscoughlinii/
+  - icon: brands/google-scholar
+    link: https://scholar.google.com/citations?user=Qfj6eIMAAAAJ&hl=en
   - icon: brands/orcid
     link: https://orcid.org/0000-0002-3545-7903
   # Link to a PDF of your resume/CV from the About widget.
@@ -102,7 +100,7 @@ user_groups:
 
 ## About the Lab
 
-Prof. Jane Smith leads the Computational Biology and Machine Learning Lab at the University of Excellence. With over 15 years of experience in interdisciplinary research, she has pioneered novel approaches to understanding biological systems through computational methods.
+Dr. Curtis Coughlin leads the research laboratory at the University of Colorado Anschutz. He completed his doctoral training with [Dr. Stephen Goodman's](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jimd.12330), whose reserach lab focused on glutraic aciduria type 1 for 45 years. The Coughlin laboratory focuses on lysine metabolism in general including the identification of a novel metabolite within the degradation of lysine. This metabolites was later applied to newborn screening for PDE-ALDH7A1. Dr. Coughlin also prioritizes collabortive research approaches. Along with [Dr. Clara van Karnebeek](https://pure.amsterdamumc.nl/en/persons/clara-van-karnebeek/) and members of the [International PDE Consortium](http://wwws.pdeonline.org/), he helped establish the use of lysine reduction therapies for the treatment of PDE-ALDH7A1. 
 
 ## Research Vision
 
@@ -115,7 +113,7 @@ Our lab focuses on developing and applying cutting-edge machine learning techniq
 
 ## Leadership & Mentorship
 
-Prof. Smith has mentored over 30 PhD students and postdoctoral researchers, many of whom have gone on to successful careers in academia and industry. She is committed to fostering an inclusive and collaborative research environment where all team members can thrive.
+Dr. Coughlin has mentored several learners including indivduials in master degree and PhD progams, medical students and residents, and junior faculty members. He has completed several formal mentoring programs and is committed to fostering an inclusive and collaborative research environment where all team members can thrive.
 
 ## Awards & Recognition
 

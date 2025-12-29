@@ -1,13 +1,13 @@
 ---
 title: "Pyridoxine-Dependent Epilepsy"
 date: 2024-02-01
-authors: ["Dr. Sarah Kim", "Prof. Jane Smith", "Dr. Michael Chen", "Emily Davis"]
+authors: ["admin"]
 tags:
-  - Neuroscience
-  - Brain-Computer Interface
-  - Machine Learning
+  - PDE
+  - Newborn screening 
+  - Natural History
 featured: true
-summary: "Developing AI-powered brain-computer interfaces that can decode complex neural signals to restore mobility and communication for patients with neurological disorders."
+summary: "Ensuring every patient is diagnosed and treated at birth. Using nutrtion-based treatments today so patients can benefit from therapeutic advances tomorrow."
 image:
   filename: featured.png
   focal_point: "Center"
