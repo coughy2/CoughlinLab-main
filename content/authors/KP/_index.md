@@ -11,7 +11,7 @@ organizations:
     url: https://www.example.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Applying computational methods to understand cellular mechanisms and develop therapeutic strategies.
+bio: scientist by day and jurassic park enthusiast at night
 
 # Interests to show in About widget
 interests:
@@ -48,7 +48,7 @@ social:
     link: https://www.linkedin.com/in/alex-wong-sysbio
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Author's website URL
 website: ""
@@ -58,7 +58,7 @@ user_groups:
   - Researchers
 ---
 
-Dr. Alex Wong joined our lab in 2021 from Harvard Medical School. Alex's research focuses on systems biology approaches to understanding disease mechanisms and identifying therapeutic targets.
+Kristie Pauly joined the Coughlin laboratory in 2018 to lead the work focused on  from Harvard Medical School. Alex's research focuses on systems biology approaches to understanding disease mechanisms and identifying therapeutic targets.
 
 ## Research Interests
 

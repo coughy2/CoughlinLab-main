@@ -13,7 +13,7 @@ authors:
 - Helmut Fuchs
 - Martin Hrabě de Angelis
 - Ron A. Wevers
-- Curtis R. Coughlin
+- admin
 - Dirk J. Lefeber
 date: '2025-01-01'
 publishDate: '2025-12-29T01:49:05.142950Z'

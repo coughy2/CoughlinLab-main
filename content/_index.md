@@ -25,10 +25,10 @@ sections:
         url: '#publications'
         icon: hero/academic-cap
       announcement:
-        text: "We are hiring PhD students and postdocs!"
+        text: ""
         link:
-          text: "Apply now"
-          url: "/opportunities"
+          text: ""
+          url: ""
     design:
       # For full-screen, add `min-h-screen` below
       css_class: ""
@@ -59,7 +59,7 @@ sections:
       items:
         - name: Disease Mechanisms
           description: Patient samples and disease models help us understand the cause of disease. Biochemical studies identify biomakers for diagnosis & treatment
-          icon: hero/beaker
+          icon: emoji/dna
           gradient: from-purple-400 to-pink-600
           status: active
           topics:
@@ -150,7 +150,7 @@ sections:
     content:
       title: Meet Our Team
       subtitle: 'Dedicated team of scientists and students focused on rare disease'
-      text: 'Our diverse team of researchers brings together expertise from multiple disciplines to tackle the most challenging problems in computational biology and machine learning.'
+      text: 
       user_groups:
         - Researchers
         - Graduate Students
@@ -361,17 +361,4 @@ sections:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
-
-  - block: cta-card
-    content:
-      title: Join Our Research Team
-      text: We are always looking for talented and motivated researchers to join our lab. We have openings for PhD students, postdoctoral researchers, and research scientists.
-      button:
-        text: View Open Positions
-        url: /opportunities
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
 ---

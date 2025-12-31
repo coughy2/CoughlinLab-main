@@ -1,7 +1,7 @@
 ---
-title: "DeepFold: AI-Powered Protein Structure Prediction"
-date: 2023-03-15
-authors: ["Dr. Michael Chen", "Prof. Jane Smith", "Sarah Johnson"]
+title: "Metabolic Epilepsy"
+date: 2025-07-18
+authors: ["admin"]
 tags:
   - Machine Learning
   - Computational Biology

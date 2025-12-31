@@ -1,6 +1,6 @@
 ---
 title: "Glutaric Aciduria Type 1"
-date: 2023-09-01  
+date: 2025-07-19  
 authors: ["Dr. Maria Rodriguez", "Prof. Jane Smith", "Dr. Alex Wong"]
 tags:
   - Quantum Materials

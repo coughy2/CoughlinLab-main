@@ -2,7 +2,7 @@
 title: 'Pyridoxine-dependent epilepsy: Current perspectives and questions for future
   research'
 authors:
-- Curtis R. Coughlin
+- admin
 - Sidney M. Gospe
 date: '2023-03-01'
 publishDate: '2025-12-29T01:49:05.203465Z'

@@ -1,7 +1,7 @@
 ---
-title: "MoleculeAI: Machine Learning Platform for Drug Discovery"
-date: 2023-06-01
-authors: ["Dr. Alex Wong", "Prof. Jane Smith", "Emily Davis"]
+title: "Ethics and Genetics (ELSI)"
+date: 2025-07-17
+authors: ["admin"]
 tags:
   - Drug Discovery
   - Machine Learning

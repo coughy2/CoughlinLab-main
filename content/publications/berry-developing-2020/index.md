@@ -4,6 +4,7 @@ title: 'Developing interactions with industry in rare diseases: lessons learned 
 authors:
 - Susan A. Berry
 - Curtis R. Coughlin
+- admin
 - Shawn McCandless
 - Robert McCarter
 - Jennifer Seminara
@@ -36,7 +37,7 @@ abstract: The National Institutes of Health (NIH) established the Rare Diseases 
 tags:
 - Drug Industry
 - Humans
-- National Institutes of Health (U.S.)
+- National Institutes of Health
 - Orphan Drug Production
 - pharmaceuticals
 - principles

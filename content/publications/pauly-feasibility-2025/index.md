@@ -10,13 +10,17 @@ authors:
 - Janet A. Thomas
 - Michael F. Wempe
 - Sidney M. Gospe
-- Curtis R. Coughlin
+- admin
 date: '2025-01-01'
 publishDate: '2025-12-29T01:49:05.162146Z'
 publication_types:
 - article-journal
 publication: '*Mol Genet Metab*'
-doi: 10.1016/j.ymgme.2024.109002
+
+hugoblox:
+  ids:
+    doi: 10.1016/j.ymgme.2024.109002
+
 abstract: 'BACKGROUND: Pyridoxine-dependent epilepsy (PDE-ALDH7A1) is a developmental
   epileptic encephalopathy historically characterized by seizures that are resistant
   to antiseizure medications. Treatment with pyridoxine and lysine reduction therapies
@@ -40,24 +44,15 @@ abstract: 'BACKGROUND: Pyridoxine-dependent epilepsy (PDE-ALDH7A1) is a developm
   using neonatal dried blood spots prior to the onset of symptoms. The use of commercially
   available newborn screening approaches demonstrates the feasibility of newborn screening
   for this treatable condition.'
+
+summary: This paper demonstarted newborn screening for PDE-ALDH7A1 using a widely avaialble screening approach
+
 tags:
 - 6-oxo-pipecolate
-- Aldehyde Dehydrogenase
+- PDE
 - ALDH7A1
-- Biomarkers
-- Dried Blood Spot Testing
-- Epilepsy
-- Feasibility Studies
-- Female
-- Humans
-- Infant
-- Newborn
-- Male
-- Neonatal Screening
-- Newborn screening
-- PDE-ALDH7A1
-- Pipecolic Acids
-- Pyridoxine
-- Pyridoxine-dependent epilepsy
-- Tandem Mass Spectrometry
+- Newborn Screening
+
+projects: [content\projects\pde\index.md]
+featured: false 
 ---

@@ -1,35 +1,36 @@
 ---
 title: "Pyridoxine-Dependent Epilepsy"
-date: 2024-02-01
+date: 2025-07-20
 authors: ["admin"]
 tags:
-  - PDE
+  - Treatable IEM
   - Newborn screening 
   - Natural History
 featured: true
-summary: "Ensuring every patient is diagnosed and treated at birth. Using nutrtion-based treatments today so patients can benefit from therapeutic advances tomorrow."
+summary: "Ensuring every patient is diagnosed and treated at birth. Focused on improving clinical outcomes today and treatment advances for tomorrow."
 image:
   filename: featured.png
   focal_point: "Center"
 ---
 
-## Project Vision
+## Research Mission
 
-NeuroLink AI is pioneering the next generation of brain-computer interfaces (BCIs) that seamlessly translate neural signals into digital commands. Our mission is to restore independence and quality of life for patients with paralysis, ALS, stroke, and other neurological conditions.
+Pyridoxine-dependent eiplepsy (PDE-ALDH7A1) is a treatable disorder. When undiagnosed patients can have recurrent, even fatal, seizures and significant developmental delays. Our goals are as follows:
+- :100:  Ensure every patient is diagnosed and treated at birth
+- :brain: Improve outcomes today with the use of lysine-reduction therapies
+- :dna: Understand disease mechanism and develop treatment for tomorrow 
 
-## Medical Need
+## Clinical Research
 
-Neurological disorders affect millions globally:
-- **Spinal Cord Injury**: 300,000+ Americans living with paralysis
-- **ALS (Lou Gehrig's Disease)**: 30,000+ patients losing motor function
+We collaborated with PDE-ALDH7A1 experts around the world Professors Gospe, van Karnebeek and members of the International PDE Consortium. The following highlight our work: 
+
+- **Lysine reduction therapies**: We co-led the first two clinical trials on the use of vitamin B<sub>6</sub>, lysine-restricted diet, and arginine supplementation ([van Karnebeek et al 2012](https://pubmed.ncbi.nlm.nih.gov/23022070/),[Coughlin et al 2015](https://pubmed.ncbi.nlm.nih.gov/26026794/)).
+- **Improvement after treatment with lysine reduction therapies**: 30,000+ patients losing motor function
 - **Stroke**: 800,000+ survivors with lasting disabilities annually
 - **Locked-in Syndrome**: Patients conscious but unable to move or speak
 
-Current assistive technologies are limited by:
-- Low bandwidth communication (2-3 bits/second)
-- Poor signal stability over time
-- Invasive surgical procedures
-- Limited functionality and user experience
+  1. **Coughlin CR 2nd**, van Karnebeek CDM, Al-Hertani W, Shun AY, Jaggumantri S, Jack RM, Gaughan S, Burns C, Mirsky DM, Gallagher RC, Van Hove JLK.  Triple therapy with pyridoxine, arginine supplementation and dietary lysine restriction in pyridoxine-dependent epilepsy: Neurodevelopmental outcome
+
 
 ## Technical Innovation
 
