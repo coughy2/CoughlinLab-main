@@ -1,246 +1,179 @@
 ---
-title: "Pyridoxine-Dependent Epilepsy"
+title: 'Pyridoxine-Dependent Epilepsy'
 date: 2025-07-20
-authors: ["admin"]
+type: landing
+
 tags:
-  - Treatable IEM
-  - Newborn screening 
-  - Natural History
+  - PDE-ALDH7A1
+  - Disease Mechanisms
+  - Therapeutic Advances
+  - Rare Disease Studies
 featured: true
 summary: "Ensuring every patient is diagnosed and treated at birth. Focused on improving clinical outcomes today and treatment advances for tomorrow."
-image:
-  filename: featured.png
-  focal_point: "Center"
+
+design:
+  # Section spacing
+  spacing: '5rem'
+
+# Page sections  
+sections:
+  - block: hero
+    content:
+      title: |
+        **Pyridoxine-Dependent Epilepsy**
+      text: |
+        We aim to ensuring every patient is diagnosed and treated at birth. We are ocused on improving clinical outcomes today so that patients can beneift from treatment advnacees tomorrows.
+      primary_action:
+        text: Schedule a Tour
+        url: '#contact'
+        icon: hero/calendar
+      secondary_action:
+        text: Equipment Catalog
+        url: '#equipment'
+        icon: hero/document-text
+    design:
+      css_class: ""
+      background:
+        gradient_mesh:
+          enable: true
+          style: "orbs"
+          animation: "pulse"
+          intensity: "medium"
+          colors:
+            - "blue-600/25"
+            - "indigo-600/20"
+            - "purple-600/15"
+
+  - block: cta-image-paragraph
+    content:
+      items:
+        - title: 'Clinical Research'
+          text: |
+            We collaborate with international PDE-ALDH7A1 experts including Professors Clara van Karnebeek, Sidney Gospe Jr, and members of the Interntional PDE Consortium. Our work directly led to lysine-restricted diet and triple therapy (vitamin B<sub>6</sub>, lysine-restricted diet, arginine supplementation) being adopated as standard of care treatment. 
+          image: Cohort study.jpg
+          feature_icon: emoji/hospital
+          features:
+            - 'First clinical studies using lysine-reduction therapies (LRT)'
+            - 'Demonstration that early treatment with LRT improves IQ' 
+            - 'Consensus guidlines for diagnosis and treatment' 
+            - 'New clinical insights from the International PDE Registry'
+          button:
+            text: 'Join our Natural History Study'
+            url: '/resources/computing'
+
+        - title: 'Basic Research'
+          text: |
+            We aim to understand the underlying disease mechansim of PDE-ALDH7A1 with a focus on biochemistry. This work led us to identify a new metabolite within lysine metabolism (6-oxo-pipecolate) that we later applied to newborn screening. Our current research focuses on impact of global metabolic dysfunction and the impact of &alpha;-AASA dehydrogenase deficiency. This work is funded by NIH/NICHD and the CurePDE Foundation. 
+          image: 6OP.jpg
+          feature_icon: emoji/dna
+          features:
+            - 'Human samples to identify and evalute novel biomakers'
+            - 'Animal models to elucidate the impact of metabolic dysfunction'
+            - 'Functional studies focused on unique genetic variants'
+            - 'Translation of research results to clinical partners'
+          button:
+            text: 'Equipment Reservations'
+            url: '/resources/equipment'
+
+        - title: 'Novel Genetic Therapies'
+          text: |
+            Although lysine reduction therapies improve clinical outcomes, nutritional based treatments are diffiuclt and associted with a negative impact on quality of life. We collaborate with the CHARLIE consoritum, other scientists, biotech, and pharmaceutical partners to evalute genetic based therapies for PDE-ALDH7A1. This includes several approaches to substrate reduction therapy. This work is funded by philanthropic donations and the CurePDE Foundation. 
+          image: curepde-lab.jpg
+          feature_icon: emoji/pill
+          features:
+            - 'Zebrafish and mouse models allow us to evalute new treatments'
+            - 'Leveraging disease expertise to ensure meaningful outcomes' 
+            - 'Enagement with stakeholders to ensure patinet-first approaches'
+            - 'Translational approches to move quickly from lab to the clinic'
+          button:
+            text: 'Donate our research'
+            url: '/resources/computing'
+    design:
+      css_class: "bg-white dark:bg-gray-800"
+
+  - block: features
+    id: equipment
+    content:
+      title: Coughlin Research Laboratory Overview 
+      text: We are a translational reserch laboratory focused on patient-centered reserach.  We combine rigours scientic methods with patient engagement approaches. 
+      items:
+        - name: 'Natural History Studies'
+          description: 'Clincical outcomes help prioritze reserch goals and provide critical control data in clincial trials'
+          icon: emoji/clipboard
+          
+        - name: 'Record of Collaboration'
+          description: 'Collaboration with clinican and scientist advance research and translation of results to the bedside'
+          icon: emoji/hospital
+          
+        - name: 'Enagement Stratagies'
+          description: 'Partnerships with patients and families to enusre our reserach goals are patient-centered'
+          icon: emoji/family_man_man_girl_boy
+          
+        - name: 'Model Systems for Rare Disease'
+          description: 'Animal (zebrafish, mice) and human model systems to interrogate mechansim and novel treatments'
+          icon: emoji/mouse2
+          
+        - name: 'Omics Expertise'
+          description: 'Exerpience in  genonmics, metaoblimics, proteomics with a focus on disease mechanism'
+          icon: emoji/dna
+          
+        - name: 'Spectroscopy Laboratory'
+          description: 'Analytical instrumententaion with a focus on quantiative mass spectrometry approaches'
+          icon: emoji/microscope
+    design:
+      css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
+
+  - block: markdown
+    content:
+      title: 'Key publications'
+      subtitle: ''
+      text: |
+        Below are select publications that highlight our work on PDE-ALDH7A1. Our other mansucripts on PDE-ALDH7A1 are avaiable in the publication section of this website and on public databases such as [Google Scholar](https://scholar.google.com/citations?user=Qfj6eIMAAAAJ&hl=en). 
+
+        <small>
+
+        1. van Karnebeek CDM, Galius-Durner V, Engelke UF, Seisenberger C, Marschall S, Dragano NRV, da Silva-Buttkus P, Leuchtenberger S, Fuchs H, de Angelis MH, Wevers R, **Coughlin CR 2nd**, Lefeber DJ. New treatment for PDE-ALDH7A1: First proof-of-principle of upstream enzyme inhibition in the mouse. Brain Comm. 2025 Oct 14;7(6):fcaf397 [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12598649/)
+
+        2. **Pauly K**, **Woontner M**. Abdenur JE, Chaudhari BP, Gosselin R, Kripps KA, Thomas JA, Wempe MF, Gospe SM Jr, **Coughlin CR 2nd**. Feasibility of newborn screening for pyridoxine-dependent epilepsy. Mol Genet Metab. 2025 Jan; 144(1):109002. [Link](https://pubmed.ncbi.nlm.nih.gov/39729892/)
+
+        3. **Coughlin CR 2nd**, Tseng, LA, Bok LA, Hartmann H, Footitt E, Striano P, Tabarki BM, Lunsing RJ, Stockler-Ipsiroglu S, Gordon S, Van Hove LK, Abdenur JE, Boyer M, Longo N, Andrews A, Janssen MCH, van Wegberg A, Prasad C, Prasad AN, Lamb MM, Wijburg FA, Gospe SM Jr, van Karnebeek C, International PDE Consortium. Association between lysine reduction therapies and cognitive outcomes in patients with pyridoxine-dependent epilepsy. Neurology. 2022 Aug 25:99(23):e2627-36. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9754645/)
+        
+        4. **Coughlin CR 2nd**, Tseng LA*, Abdenur JE, Ashmore C, Boemer F, Bok LA, Boyer M, Buhas D, Clayton PT, Das A, Dekker H, Evangeliou A, Feillet F, Footitt EJ, Gospe SM Jr, Hartman H, Kara  M, Kristensen E, Lee J, Lilje R, Longo N, Lunsing RJ, Pearl PL, Piazzon F, Plecko B, Saini AG, Santra S, Sjarif DR, Stockler-Ipsiroglu S, Striano P, Van Hove JLK, Verhoeven-Duif NM, Wijburg FA, Zuberi SM, van Karnebeek CDM†. Consensus guidelines for the diagnosis and management of pyridoxine-dependent epilepsy due to α-aminoadipic semialdehyde dehydrogenase deficiency. J Inherit Metab Dis. 2021 Jan;44(1):178-192. [Link](https://pubmed.ncbi.nlm.nih.gov/33200442/)
+        
+        5. Wempe MF, Kumar A, Kumar V, Choi YJ, Swanson MA, Friederich MW., Hyland K, Yue WW, Van Hove JLK, **Coughlin CR 2nd**. Identification of a novel biomarker for pyridoxine-dependent epilepsy: Implications for newborn screening. J Inherit Metab Dis. 2019 May;42(3):565-574. [Link](https://pubmed.ncbi.nlm.nih.gov/30663059/)
+        
+        </small> 
+        
+       
+    design:
+      columns: '1'
+      css_class: "bg-primary-50 dark:bg-primary-900/10"
+
+  - block: contact-info
+    id: contact
+    content:
+      title: Plan Your Visit
+      subtitle: 'Experience Our Facilities Firsthand'
+      visit_title: 'Visit Us'
+      connect_title: 'Connect'
+      address:
+        lines:
+          - Research Lab
+          - Science Building, University of Excellence
+          - 123 Science Drive
+          - Excellence City, EC 12345
+      office_hours:
+        - 'Monday - Friday: 8:00 AM - 6:00 PM'
+        - 'Saturday: 9:00 AM - 2:00 PM'
+        - 'Sunday: By appointment only'
+      email: 'facilities@example.edu'
+      phone: '+1 (555) 123-4567'
+      social:
+        - icon: brands/linkedin
+          url: https://linkedin.com
+        - icon: brands/x
+          url: https://x.com
+      map_url: 'https://maps.google.com/?q=Science+Building+Excellence+City'
+    design:
+      css_class: "dark bg-gray-900 text-white"
 ---
-
-## Research Mission
-
-Pyridoxine-dependent eiplepsy (PDE-ALDH7A1) is a treatable disorder. When undiagnosed patients can have recurrent, even fatal, seizures and significant developmental delays. Our goals are as follows:
-- :100:  Ensure every patient is diagnosed and treated at birth
-- :brain: Improve outcomes today with the use of lysine-reduction therapies
-- :dna: Understand disease mechanism and develop treatment for tomorrow 
-
-## Clinical Research
-
-We collaborated with PDE-ALDH7A1 experts around the world Professors Gospe, van Karnebeek and members of the International PDE Consortium. The following highlight our work: 
-
-- **Lysine reduction therapies**: We co-led the first two clinical trials on the use of vitamin B<sub>6</sub>, lysine-restricted diet, and arginine supplementation ([van Karnebeek et al 2012](https://pubmed.ncbi.nlm.nih.gov/23022070/),[Coughlin et al 2015](https://pubmed.ncbi.nlm.nih.gov/26026794/)).
-- **Improvement after treatment with lysine reduction therapies**: 30,000+ patients losing motor function
-- **Stroke**: 800,000+ survivors with lasting disabilities annually
-- **Locked-in Syndrome**: Patients conscious but unable to move or speak
-
-  1. **Coughlin CR 2nd**, van Karnebeek CDM, Al-Hertani W, Shun AY, Jaggumantri S, Jack RM, Gaughan S, Burns C, Mirsky DM, Gallagher RC, Van Hove JLK.  Triple therapy with pyridoxine, arginine supplementation and dietary lysine restriction in pyridoxine-dependent epilepsy: Neurodevelopmental outcome
-
-
-## Technical Innovation
-
-### Advanced Neural Decoding
-- **High-Dimensional Signal Processing**: Analyzing 1000+ simultaneous neural channels
-- **Temporal Dynamics**: Capturing neural patterns across millisecond timescales
-- **Adaptive Learning**: Models that improve with user practice
-- **Robust Decoding**: Performance maintained despite signal degradation
-
-### Machine Learning Architecture
-- **Recurrent Neural Networks**: Modeling temporal dependencies in neural data
-- **Transformer Models**: Attention mechanisms for neural sequence processing
-- **Federated Learning**: Privacy-preserving training across patient data
-- **Transfer Learning**: Adapting models between different patients
-
-### Multi-Modal Integration
-- **Neural Signals**: Invasive and non-invasive electrode recordings
-- **Muscle Activity**: EMG signals from residual muscle function
-- **Eye Tracking**: Gaze-based interfaces for communication
-- **Brain Stimulation**: Closed-loop stimulation for rehabilitation
-
-## Breakthrough Results
-
-### Motor Control Restoration
-- **Typing Speed**: 90 characters/minute using thought alone (vs. 40 previous best)
-- **Prosthetic Control**: Fine motor control of robotic arms with 96% accuracy
-- **Real-time Performance**: <100ms latency for responsive control
-
-### Communication Enhancement
-- **Speech Synthesis**: Converting intended speech to audio at 62 words/minute
-- **Text Generation**: Direct thought-to-text at 18 words/minute
-- **Emotional Expression**: Detecting and conveying emotional states
-
-### Clinical Validation
-- **Patient Studies**: 25 participants across 4 clinical sites
-- **Long-term Stability**: Signals maintained for 18+ months post-implant
-- **Safety Profile**: Zero serious adverse events in 500+ patient-months
-
-## Clinical Trials
-
-### Phase I Safety Study (Completed)
-- **Participants**: 12 patients with chronic spinal cord injury
-- **Primary Endpoint**: Safety of chronic implantation (achieved)
-- **Secondary Endpoints**: Signal quality and preliminary efficacy
-- **Publication**: *New England Journal of Medicine* (2024)
-
-### Phase II Efficacy Trial (Ongoing)
-- **Participants**: 50 patients across multiple conditions
-- **Primary Endpoint**: Functional improvement in daily activities
-- **Innovation**: First adaptive BCI system in clinical trials
-- **Timeline**: Results expected Q4 2024
-
-### Pediatric Study (Planning)
-- **Population**: Children with cerebral palsy and genetic disorders
-- **Focus**: Developmental plasticity and long-term outcomes
-- **Ethics**: Extensive pediatric ethics review process
-
-## Technology Platform
-
-### Hardware Development
-- **Ultra-High Density Arrays**: 10,000+ electrode microarrays
-- **Wireless Transmission**: Tetherless data transmission at 1Gbps
-- **Biocompatible Materials**: Long-term implant stability
-- **Miniaturization**: Reducing system size for aesthetic appeal
-
-### Software Infrastructure
-- **Real-time Processing**: Sub-millisecond neural decoding
-- **Cloud Integration**: Secure patient data management
-- **Mobile Applications**: User-friendly control interfaces
-- **Calibration Protocols**: Daily system optimization
-
-### AI Model Development
-- **Neural Architecture Search**: Automated model design for each patient
-- **Continual Learning**: Models that adapt to neural signal changes
-- **Interpretability**: Understanding what neural patterns represent
-- **Robustness**: Performance under real-world conditions
-
-## Industry Partnerships
-
-### Medical Device Companies
-- **Medtronic**: Neurostimulation and implant expertise
-- **Boston Scientific**: Electrode array manufacturing
-- **Abbott/St. Jude**: Wireless data transmission systems
-
-### Technology Giants
-- **Meta Reality Labs**: AR/VR integration for BCI control
-- **Google Health**: AI model development and validation
-- **Microsoft Research**: Cloud computing and accessibility tools
-
-### Pharmaceutical Companies
-- **Biogen**: Neurological disorder patient populations
-- **Roche/Genentech**: Biomarker discovery and validation
-- **Novartis**: Gene therapy combination approaches
-
-## Regulatory Strategy
-
-### FDA Breakthrough Device Designation
-- **Status**: Received breakthrough designation in 2023
-- **Advantage**: Expedited review pathway and frequent FDA communication
-- **Milestones**: IDE approval for pivotal trial planned 2025
-
-### International Approvals
-- **CE Mark (Europe)**: Regulatory submission planned 2025
-- **Health Canada**: Pre-submission meetings initiated
-- **Japan PMDA**: Regulatory strategy development
-
-## Ethical Considerations
-
-### Neuroethics Framework
-- **Privacy Protection**: Secure handling of neural data
-- **Informed Consent**: Comprehensive understanding of risks/benefits
-- **Enhancement vs. Treatment**: Clear boundaries for medical applications
-- **Identity and Agency**: Preserving patient autonomy and sense of self
-
-### Advisory Boards
-- **Patient Advisory Board**: BCI users guiding development priorities
-- **Ethics Review Board**: Ongoing ethical oversight
-- **Disability Rights Organizations**: Ensuring community needs are met
-
-## Educational Impact
-
-### Training Programs
-- **BCI Engineering Certificate**: 1-year professional program
-- **Medical Device Innovation Course**: For clinicians and engineers
-- **Neuroethics Workshops**: Addressing societal implications
-
-### Public Engagement
-- **Museum Exhibits**: Interactive BCI demonstrations
-- **Science Festivals**: Public education about neurotechnology
-- **Patient Stories**: First-person accounts of BCI benefits
-
-## Economic Potential
-
-### Market Opportunity
-- **BCI Market Size**: $3.7B by 2027 (27% CAGR)
-- **Addressable Population**: 5.4M people in US could benefit
-- **Healthcare Savings**: $50B annually in improved independence
-
-### Commercialization Path
-- **Licensing Strategy**: Technology transfer to medical device companies
-- **Startup Formation**: University spin-off company development
-- **IP Portfolio**: 15 patent applications filed, 3 granted
-
-## Global Research Network
-
-### International Collaborations
-- **University of Cambridge**: Computational neuroscience expertise
-- **Swiss Federal Institute of Technology**: Neural interface engineering
-- **University of Tokyo**: Robotics and prosthetics integration
-- **Tel Aviv University**: Machine learning for neural data
-
-### Data Sharing Consortium
-- **Brain Data Standards**: Developing common data formats
-- **Multi-site Studies**: Coordinated trials across institutions
-- **Reproducible Research**: Open protocols and analysis code
-
-## Social Impact Stories
-
-### Patient Testimonials
-- **"I can hug my daughter again"** - John, spinal cord injury patient
-- **"Speaking my thoughts for the first time in 10 years"** - Maria, ALS patient  
-- **"Independence I thought I'd never have"** - David, stroke survivor
-
-### Caregiver Relief
-- **Reduced Care Burden**: 40% decrease in daily assistance needed
-- **Family Quality of Life**: Improved relationships and communication
-- **Economic Benefits**: Reduced long-term care costs
-
-## Research Publications
-
-### High-Impact Publications
-1. Kim, S., Smith, J., et al. "Adaptive Neural Interfaces for Motor Restoration." *Nature Neuroscience* **31**, 123-135 (2024) - **Editor's Choice**
-2. Chen, M., Kim, S., et al. "Real-time Speech Synthesis from Neural Signals." *Cell* **187**, 456-470 (2024) - **Cover Article**
-3. Davis, E., et al. "Federated Learning for Brain-Computer Interfaces." *Nature Machine Intelligence* **6**, 78-89 (2024)
-
-### Conference Leadership
-- **Society for Neuroscience 2024**: Symposium organizer - "AI in Neural Interfaces"
-- **IEEE Neural Engineering Conference**: Program committee member
-- **Computational and Systems Neuroscience (Cosyne)**: Workshop chair
-
-## Future Milestones
-
-### Near-term Goals (2024-2025)
-- Complete Phase II clinical trial enrollment
-- Submit FDA approval application (PMA)
-- Launch commercial partnership negotiations
-- Train 50+ clinicians in BCI implantation
-
-### Long-term Vision (2026-2029)
-- FDA approval and market launch
-- International regulatory approvals
-- Establish BCI centers of excellence
-- Democratize access through insurance coverage
-
-## Recruitment & Collaboration
-
-### Open Positions
-- **Postdoctoral Researcher**: Neural signal processing and ML
-- **Clinical Research Coordinator**: Managing multi-site trials
-- **Biomedical Engineer**: Hardware/software integration
-- **Regulatory Affairs Specialist**: FDA submission and compliance
-
-### Partnership Opportunities
-- **Clinical Sites**: Hospitals with neurosurgery capabilities
-- **Patient Organizations**: ALS Association, Christopher Reeve Foundation
-- **Technology Companies**: Hardware and software development partners
-- **Investors**: Series A funding for commercialization
-
-### Contact Information
-- **Principal Investigator**: Prof. Jane Smith (jane.smith@example.edu)
-- **Clinical Director**: Dr. Sarah Kim (sarah.kim@example.edu)
-- **Engineering Lead**: Dr. Michael Chen (michael.chen@example.edu)
-- **Business Development**: partnerships@example.edu
