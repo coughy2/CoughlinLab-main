@@ -22,7 +22,7 @@ sections:
         icon: hero/user-group
       secondary_action:
         text: View Publications
-        url: '#publications'
+        url: '/publications'
         icon: hero/academic-cap
       announcement:
         text: ""
@@ -57,6 +57,21 @@ sections:
       subtitle: " "
       text: As a translational research lab, we aim to make real world impact by moving through various research stages such as basic science, preclincial studies, and clinical application. 
       items:
+        - name: Rare Disease Studies 
+          description: Natural history studies enhance our understanding of disease, set research priorities, and provide historical data for clincial trials  
+          icon: emoji/hospital
+          gradient: from-green-400 to-emerald-600 
+          status: enrolling
+          topics:
+            - Clinical outcomes
+            - Study design 
+          team_size: 5
+          publications: 70+
+          funding: NIH/Philanthropy
+          cta:
+            text: Learn more or enroll 
+            url: /research/materials-science
+
         - name: Disease Mechanisms
           description: Patient samples and disease models help us understand the cause of disease. Biochemical studies identify biomakers for diagnosis & treatment
           icon: emoji/dna
@@ -87,21 +102,6 @@ sections:
           cta:
             text: View Research
             url: /research/machine-learning
-            
-        - name: Rare Disease Studies 
-          description: Natural history studies enhance our understanding of disease, set research priorities, and provide historical data for clincial trials  
-          icon: emoji/hospital
-          gradient: from-green-400 to-emerald-600 
-          status: enrolling
-          topics:
-            - Clinical outcomes
-            - Study design 
-          team_size: 5
-          publications: 70+
-          funding: NIH/Philanthropy
-          cta:
-            text: Learn more or enroll 
-            url: /research/materials-science
       cta:
         text: Active Research Projects
         url: /#projects
@@ -111,39 +111,6 @@ sections:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
-
-  - block: cta-image-paragraph
-    content:
-      items:
-        - title: 'State-of-the-Art Research Environment'
-          text: |
-            Our laboratory features cutting-edge equipment and modern research facilities designed to support breakthrough discoveries. From advanced computational clusters to precision instrumentation, we provide our researchers with the tools they need to push the boundaries of science.
-          image: pexels-polina-tankilevitch-3735769.jpg
-          feature_icon: hero/check-circle
-          features:
-            - 'High-Performance Computing: 500+ core GPU cluster for AI/ML research'
-            - 'Advanced Instrumentation: Precision equipment for materials characterization'
-            - 'Safety & Compliance: Full safety protocols and regulatory compliance'
-          button:
-            text: 'Virtual Lab Tour'
-            url: '/facilities'
-
-        - title: 'Collaborative Innovation Culture' 
-          text: |
-            Breakthrough research happens through collaboration. Our open lab environment fosters cross-disciplinary partnerships, knowledge sharing, and mentorship between senior researchers and emerging scientists. Every team member contributes to our collective mission of advancing scientific understanding.
-          image: pexels-canvastudio-3153198.jpg
-          feature_icon: hero/users
-          features:
-            - 'Cross-Disciplinary Teams: Biologists, engineers, and computer scientists working together'
-            - 'Knowledge Sharing: Weekly seminars and collaborative research meetings'
-            - 'Mentorship Program: Structured guidance for PhD students and postdocs'
-          button:
-            text: 'Join Our Community'
-            url: '/opportunities'
-    design:
-      css_class: "bg-white dark:bg-gray-800"
-      spacing:
-        padding: ["4rem", 0, "4rem", 0]
 
   - block: team-showcase
     id: team
@@ -213,41 +180,6 @@ sections:
       view: citation
 
   - block: collection
-    id: featured
-    content:
-      title: Featured Research
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-
-  - block: collection
-    id: events
-    content:
-      title: Events
-      subtitle: Join Us for Research Presentations & Seminars
-      text: Stay connected with our research community through talks, workshops, and collaborative events
-      filters:
-        folders:
-          - events
-        exclude_past: false  # Show both past and future events
-      count: 3
-      sort_by: Date
-      sort_ascending: false
-    design:
-      view: card
-      # columns: 3
-      show_date: true
-      show_read_time: false
-      show_read_more: true
-      css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900"
-      spacing:
-        padding: ["4rem", 0, "4rem", 0]
-
-  - block: collection
     id: news
     content:
       title: Lab News & Updates
@@ -256,7 +188,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 2
       # Filter on criteria
       filters:
         author: ''
@@ -272,8 +204,31 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
-      columns: 1
+      view: article-grid
+      columns: 2
+
+  - block: collection
+    id: events
+    content:
+      title: Events
+      subtitle: Join Us for Research Presentations & Seminars
+      text: Stay connected with our research community through talks, workshops, and collaborative events
+      filters:
+        folders:
+          - events
+        exclude_past: false  # Show both past and future events
+      count: 2
+      sort_by: Date
+      sort_ascending: false
+    design:
+      view: article-grid
+      # columns: 2
+      show_date: true
+      show_read_time: false
+      show_read_more: true
+      css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900"
+      spacing:
+        padding: ["4rem", 0, "4rem", 0]
 
   - block: logos
     content:

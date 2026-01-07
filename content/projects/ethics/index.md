@@ -1,10 +1,10 @@
 ---
-title: 'Pyridoxine-Dependent Epilepsy'
-date: 2025-07-20
+title: 'Ethics and Genetics (ELSI)'
+date: 2025-07-17
 type: landing
 
 tags:
-  - PDE-ALDH7A1
+  - Bioethics
   - Disease Mechanisms
   - Therapeutic Advances
   - Rare Disease Studies
@@ -20,7 +20,7 @@ sections:
   - block: hero
     content:
       title: |
-        **Pyridoxine-Dependent Epilepsy**
+        **Ethics and Genetics (ELSI)**
       text: |
         We aim to ensure every patient is diagnosed and treated at birth. We are focused on improving clinical outcomes today so that patients can beneift from treatment advances tomorrows.
       primary_action:

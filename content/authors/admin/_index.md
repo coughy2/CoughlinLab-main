@@ -100,7 +100,7 @@ user_groups:
 
 ## About the Lab
 
-Dr. Curtis Coughlin leads the research laboratory at the University of Colorado Anschutz. He completed his doctoral training with [Dr. Stephen Goodman's](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jimd.12330), whose reserach lab focused on glutraic aciduria type 1 for 45 years. The Coughlin laboratory focuses on lysine metabolism in general including the identification of a novel metabolite within the degradation of lysine. This metabolites was later applied to newborn screening for PDE-ALDH7A1. Dr. Coughlin also prioritizes collabortive research approaches. Along with [Dr. Clara van Karnebeek](https://pure.amsterdamumc.nl/en/persons/clara-van-karnebeek/) and members of the [International PDE Consortium](http://wwws.pdeonline.org/), he helped establish the use of lysine reduction therapies for the treatment of PDE-ALDH7A1. 
+Dr. Curtis Coughlin leads the research laboratory at the University of Colorado Anschutz. He completed his doctoral training with [Dr. Stephen Goodman's](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jimd.12330), whose reserach lab focused on glutraic aciduria type 1 for 45 years. The Coughlin laboratory primary focus is lysine metabolism, which led to the identification of a novel metabolite within the degradation of lysine. This metabolites was later applied to newborn screening for PDE-ALDH7A1. Dr. Coughlin also prioritizes collabortive research approaches. Along with [Dr. Clara van Karnebeek](https://pure.amsterdamumc.nl/en/persons/clara-van-karnebeek/) and members of the [International PDE Consortium](http://wwws.pdeonline.org/), he helped establish the use of lysine reduction therapies for the treatment of PDE-ALDH7A1. 
 
 ## Research Vision
 

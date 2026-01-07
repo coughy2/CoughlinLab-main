@@ -1,10 +1,10 @@
 ---
-title: 'Pyridoxine-Dependent Epilepsy'
-date: 2025-07-20
+title: 'Metabolic Epilepsies'
+date: 2025-07-18
 type: landing
 
 tags:
-  - PDE-ALDH7A1
+  - Epilepsy
   - Disease Mechanisms
   - Therapeutic Advances
   - Rare Disease Studies
@@ -20,9 +20,9 @@ sections:
   - block: hero
     content:
       title: |
-        **Pyridoxine-Dependent Epilepsy**
+        **Metabolic Epilepies**
       text: |
-        We aim to ensure every patient is diagnosed and treated at birth. We are focused on improving clinical outcomes today so that patients can beneift from treatment advances tomorrows.
+        We aim to ensuring every patient is diagnosed and treated at birth. We are ocused on improving clinical outcomes today so that patients can beneift from treatment advnacees tomorrows.
       primary_action:
         text: Schedule a Tour
         url: '#contact'
@@ -58,8 +58,8 @@ sections:
             - 'Consensus guidlines for diagnosis and treatment' 
             - 'New clinical insights from the International PDE Registry'
           button:
-            text: 'Join our natural history study'
-            url: 'http://wwws.pdeonline.org/'
+            text: 'Join our Natural History Study'
+            url: '/resources/computing'
 
         - title: 'Basic Research'
           text: |
@@ -72,8 +72,8 @@ sections:
             - 'Functional studies focused on unique genetic variants'
             - 'Translation of research results to clinical partners'
           button:
-            text: 'View our publications'
-            url: '/publications'
+            text: 'Equipment Reservations'
+            url: '/resources/equipment'
 
         - title: 'Novel Genetic Therapies'
           text: |
@@ -86,7 +86,7 @@ sections:
             - 'Enagement with stakeholders to ensure patinet-first approaches'
             - 'Translational approches to move quickly from lab to the clinic'
           button:
-            text: 'Donate to our research'
+            text: 'Donate our research'
             url: '/resources/computing'
     design:
       css_class: "bg-white dark:bg-gray-800"

@@ -7,9 +7,6 @@ main:
   - name: Home
     url: '/#about'
     weight: 10
-  - name: Facilities
-    url: '/facilities'
-    weight: 15
   - name: People
     url: '/#team'
     weight: 20
@@ -24,9 +21,6 @@ main:
     weight: 50  
   - name: Events
     url: '/#events'
-    weight: 50
-  - name: Join Us
-    url: '/opportunities'
     weight: 60
   - name: Contact
     url: '/#contact'
