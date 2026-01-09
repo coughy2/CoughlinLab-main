@@ -120,8 +120,6 @@ sections:
         - name: 'Spectroscopy Laboratory'
           description: 'Analytical instrumententaion with a focus on quantiative mass spectrometry approaches'
           icon: emoji/microscope
-    design:
-      css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
         
     design:
       columns: '1'
