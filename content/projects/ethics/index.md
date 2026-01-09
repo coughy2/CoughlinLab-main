@@ -9,7 +9,7 @@ tags:
   - Therapeutic Advances
   - Rare Disease Studies
 featured: true
-summary: "Ensuring every patient is diagnosed and treated at birth. Focused on improving clinical outcomes today and treatment advances for tomorrow."
+summary: "Dr. Coug."
 
 design:
   # Section spacing
@@ -20,16 +20,16 @@ sections:
   - block: hero
     content:
       title: |
-        **Ethics and Genetics (ELSI)**
+        **Ethics and Genetics**
       text: |
-        We aim to ensure every patient is diagnosed and treated at birth. We are focused on improving clinical outcomes today so that patients can beneift from treatment advances tomorrows.
+        Our ethics research is primarly focused on the ethical, legal, and social implications (ELSI) of genetics and genomics. Dr. Coughlin is a certified health ethics consultant (HEC-C) and also serves as a clinical bioethics. 
       primary_action:
-        text: Schedule a Tour
+        text: Contact us
         url: '#contact'
-        icon: hero/calendar
+        icon: hero/phone
       secondary_action:
-        text: Equipment Catalog
-        url: '#equipment'
+        text: Center for Bioethcs & Humanities
+        url: 'https://www.cuanschutz.edu/centers/bioethicshumanities'
         icon: hero/document-text
     design:
       css_class: ""
@@ -47,10 +47,10 @@ sections:
   - block: cta-image-paragraph
     content:
       items:
-        - title: 'Clinical Research'
+        - title: 'CADRe Framework'
           text: |
-            We collaborate with international PDE-ALDH7A1 experts including Professors Clara van Karnebeek, Sidney Gospe Jr, and members of the Interntional PDE Consortium. Our work directly led to lysine-restricted diet and triple therapy (vitamin B<sub>6</sub>, lysine-restricted diet, arginine supplementation) being adopated as standard of care treatment. 
-          image: Cohort study.jpg
+            Dr. Coughlin served as part of the Consent & Disclosure Recommendations [(CADRe)](https://clinicalgenome.org/tools/cadre/) workgroup in the ClinGen resource.  
+          image: cadre.jpg
           feature_icon: emoji/hospital
           features:
             - 'First clinical studies using lysine-reduction therapies (LRT)'
@@ -61,7 +61,7 @@ sections:
             text: 'Join our natural history study'
             url: 'http://wwws.pdeonline.org/'
 
-        - title: 'Basic Research'
+        - title: 'Precision Medicine'
           text: |
             We aim to understand the underlying disease mechansim of PDE-ALDH7A1 with a focus on biochemistry. This work led us to identify a new metabolite within lysine metabolism (6-oxo-pipecolate) that we later applied to newborn screening. Our current research focuses on impact of global metabolic dysfunction and the impact of &alpha;-AASA dehydrogenase deficiency. This work is funded by NIH/NICHD and the CurePDE Foundation. 
           image: 6OP.jpg
@@ -90,38 +90,6 @@ sections:
             url: '/resources/computing'
     design:
       css_class: "bg-white dark:bg-gray-800"
-
-  - block: features
-    id: equipment
-    content:
-      title: Coughlin Research Laboratory Overview 
-      text: We are a translational reserch laboratory focused on patient-centered reserach.  We combine rigours scientic methods with patient engagement approaches. 
-      items:
-        - name: 'Natural History Studies'
-          description: 'Clincical outcomes help prioritze reserch goals and provide critical control data in clincial trials'
-          icon: emoji/clipboard
-          
-        - name: 'Record of Collaboration'
-          description: 'Collaboration with clinican and scientist advance research and translation of results to the bedside'
-          icon: emoji/hospital
-          
-        - name: 'Enagement Stratagies'
-          description: 'Partnerships with patients and families to enusre our reserach goals are patient-centered'
-          icon: emoji/family_man_man_girl_boy
-          
-        - name: 'Model Systems for Rare Disease'
-          description: 'Animal (zebrafish, mice) and human model systems to interrogate mechansim and novel treatments'
-          icon: emoji/mouse2
-          
-        - name: 'Omics Expertise'
-          description: 'Exerpience in  genonmics, metaoblimics, proteomics with a focus on disease mechanism'
-          icon: emoji/dna
-          
-        - name: 'Spectroscopy Laboratory'
-          description: 'Analytical instrumententaion with a focus on quantiative mass spectrometry approaches'
-          icon: emoji/microscope
-    design:
-      css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
 
   - block: markdown
     content:
@@ -152,28 +120,25 @@ sections:
   - block: contact-info
     id: contact
     content:
-      title: Plan Your Visit
-      subtitle: 'Experience Our Facilities Firsthand'
-      visit_title: 'Visit Us'
+      title: Contact Us
+      subtitle: ''
+      visit_title: 'Mailing Address'
       connect_title: 'Connect'
       address:
         lines:
-          - Research Lab
-          - Science Building, University of Excellence
-          - 123 Science Drive
-          - Excellence City, EC 12345
-      office_hours:
-        - 'Monday - Friday: 8:00 AM - 6:00 PM'
-        - 'Saturday: 9:00 AM - 2:00 PM'
-        - 'Sunday: By appointment only'
-      email: 'facilities@example.edu'
-      phone: '+1 (555) 123-4567'
+          - University of Colorado Anschutz 
+          - RC1 North, P18-3401A
+          - Mail stop 8313
+          - Aurora, Colorado 80045
+      Univerity of Colorado Anschutz:
+      email: 'coughlinlab@gmail.com'
+      phone: '+1 (303) 724.5319'
       social:
+        - icon: brands/facebook
+          url: https://www.facebook.com/coughlin.pde.lab/
         - icon: brands/linkedin
-          url: https://linkedin.com
-        - icon: brands/x
-          url: https://x.com
-      map_url: 'https://maps.google.com/?q=Science+Building+Excellence+City'
+          url: https://www.linkedin.com/in/curtiscoughlinii/
+      map_url: 'https://maps.app.goo.gl/qEkYNTcJFVFUEwco9'
     design:
       css_class: "dark bg-gray-900 text-white"
 ---

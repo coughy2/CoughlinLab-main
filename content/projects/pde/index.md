@@ -24,11 +24,11 @@ sections:
       text: |
         We aim to ensure every patient is diagnosed and treated at birth. We are focused on improving clinical outcomes today so that patients can beneift from treatment advances tomorrows.
       primary_action:
-        text: Schedule a Tour
+        text: Contact us
         url: '#contact'
-        icon: hero/calendar
+        icon: hero/phone
       secondary_action:
-        text: Equipment Catalog
+        text: Coughlin lab overview
         url: '#equipment'
         icon: hero/document-text
     design:
@@ -152,28 +152,25 @@ sections:
   - block: contact-info
     id: contact
     content:
-      title: Plan Your Visit
-      subtitle: 'Experience Our Facilities Firsthand'
-      visit_title: 'Visit Us'
+      title: Contact Us
+      subtitle: ''
+      visit_title: 'Mailing Address'
       connect_title: 'Connect'
       address:
         lines:
-          - Research Lab
-          - Science Building, University of Excellence
-          - 123 Science Drive
-          - Excellence City, EC 12345
-      office_hours:
-        - 'Monday - Friday: 8:00 AM - 6:00 PM'
-        - 'Saturday: 9:00 AM - 2:00 PM'
-        - 'Sunday: By appointment only'
-      email: 'facilities@example.edu'
-      phone: '+1 (555) 123-4567'
+          - University of Colorado Anschutz 
+          - RC1 North, P18-3401A
+          - Mail stop 8313
+          - Aurora, Colorado 80045
+      Univerity of Colorado Anschutz:
+      email: 'coughlinlab@gmail.com'
+      phone: '+1 (303) 724.5319'
       social:
+        - icon: brands/facebook
+          url: https://www.facebook.com/coughlin.pde.lab/
         - icon: brands/linkedin
-          url: https://linkedin.com
-        - icon: brands/x
-          url: https://x.com
-      map_url: 'https://maps.google.com/?q=Science+Building+Excellence+City'
+          url: https://www.linkedin.com/in/curtiscoughlinii/
+      map_url: 'https://maps.app.goo.gl/qEkYNTcJFVFUEwco9'
     design:
       css_class: "dark bg-gray-900 text-white"
 ---

@@ -51,6 +51,26 @@ sections:
         #     brightness: 0.6
         #     contrast: 1.1
 
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: pde_fam.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['200px', '0', '200px', '0']
+      css_class: fullscreen
+
   - block: research-areas
     content:
       title: Research Focus Areas
@@ -281,36 +301,24 @@ sections:
     id: contact
     content:
       title: Contact Us
-      subtitle: Get in touch with our research team
-      visit_title: Visit Our Lab
-      connect_title: Connect With Us
+      subtitle: ''
+      visit_title: 'Mailing Address'
+      connect_title: 'Connect'
       address:
         lines:
-          - Smith Laboratory
-          - Department of Computer Science
-          - University of Excellence
-          - 123 Science Drive
-          - Excellence City, EC 12345
-          - United States
-      office_hours:
-        - "Monday - Friday: 9:00 AM - 5:00 PM"
-        - "Lab Meetings: Fridays 2:00 PM"
-      email: lab@example.edu
-      phone: "+1 (555) 123-4567"
+          - University of Colorado Anschutz 
+          - RC1 North, P18-3401A
+          - Mail stop 8313
+          - Aurora, Colorado 80045
+      Univerity of Colorado Anschutz:
+      email: 'coughlinlab@gmail.com'
+      phone: '+1 (303) 724.5319'
       social:
-        - icon: brands/x
-          url: https://twitter.com/SmithLabResearch
+        - icon: brands/facebook
+          url: https://www.facebook.com/coughlin.pde.lab/
         - icon: brands/linkedin
-          url: https://linkedin.com/company/smith-lab
-        - icon: brands/github
-          url: https://github.com/smith-lab
-      prospective:
-        title: Prospective Members
-        text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
-        button:
-          text: View Open Positions
-          url: /opportunities
-      map_url: https://maps.google.com/?q=University+of+Excellence
+          url: https://www.linkedin.com/in/curtiscoughlinii/
+      map_url: 'https://maps.app.goo.gl/qEkYNTcJFVFUEwco9'
       show_form: false
     design:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"

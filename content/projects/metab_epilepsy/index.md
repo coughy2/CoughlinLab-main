@@ -9,7 +9,7 @@ tags:
   - Therapeutic Advances
   - Rare Disease Studies
 featured: true
-summary: "Ensuring every patient is diagnosed and treated at birth. Focused on improving clinical outcomes today and treatment advances for tomorrow."
+summary: "Understanding mechanism of individual metabolic epilepsy disorders and shared clinical outcome measures that can faciliate clinical trial designs."
 
 design:
   # Section spacing
@@ -20,15 +20,15 @@ sections:
   - block: hero
     content:
       title: |
-        **Metabolic Epilepies**
+        **Metabolic Epilepsies**
       text: |
-        We aim to ensuring every patient is diagnosed and treated at birth. We are ocused on improving clinical outcomes today so that patients can beneift from treatment advnacees tomorrows.
+        We focus on rare, metabolic epilepsies. We aim to understand that disease mechansim and develop treatment for indivdiual disorders. We also focus on basket trial designs using shared clinical outcomes for similar disorders.
       primary_action:
-        text: Schedule a Tour
+        text: Contact us
         url: '#contact'
-        icon: hero/calendar
+        icon: hero/phone
       secondary_action:
-        text: Equipment Catalog
+        text: Coughlin lab overview
         url: '#equipment'
         icon: hero/document-text
     design:
@@ -47,47 +47,47 @@ sections:
   - block: cta-image-paragraph
     content:
       items:
-        - title: 'Clinical Research'
+        - title: 'B<sub>6</sub> responsive seizures'
           text: |
-            We collaborate with international PDE-ALDH7A1 experts including Professors Clara van Karnebeek, Sidney Gospe Jr, and members of the Interntional PDE Consortium. Our work directly led to lysine-restricted diet and triple therapy (vitamin B<sub>6</sub>, lysine-restricted diet, arginine supplementation) being adopated as standard of care treatment. 
-          image: Cohort study.jpg
-          feature_icon: emoji/hospital
-          features:
-            - 'First clinical studies using lysine-reduction therapies (LRT)'
-            - 'Demonstration that early treatment with LRT improves IQ' 
-            - 'Consensus guidlines for diagnosis and treatment' 
-            - 'New clinical insights from the International PDE Registry'
-          button:
-            text: 'Join our Natural History Study'
-            url: '/resources/computing'
-
-        - title: 'Basic Research'
-          text: |
-            We aim to understand the underlying disease mechansim of PDE-ALDH7A1 with a focus on biochemistry. This work led us to identify a new metabolite within lysine metabolism (6-oxo-pipecolate) that we later applied to newborn screening. Our current research focuses on impact of global metabolic dysfunction and the impact of &alpha;-AASA dehydrogenase deficiency. This work is funded by NIH/NICHD and the CurePDE Foundation. 
-          image: 6OP.jpg
+            Our primary reseearch is focused on PDE-ALDH7A1 defciency which is only one of the vitamin B<sub>6</sub> responsive seizure disorders. In addition to the known genetic B<sub>6</sub> responsive disorders, a number of patients with idiopathic seizures respond to vitmain B<sub>6</sub> supplementation. We are focused on both identification of novel genetic causes and understanding general mechanism of these disorders.
+          image: b6.jpg
           feature_icon: emoji/dna
           features:
-            - 'Human samples to identify and evalute novel biomakers'
-            - 'Animal models to elucidate the impact of metabolic dysfunction'
-            - 'Functional studies focused on unique genetic variants'
-            - 'Translation of research results to clinical partners'
+            - 'Genome study to identify novel biomakers [[Enroll](#contact)]'
+            - 'Tissue specific LC-MS/MS quantification of Bsub>6</sub> vitamers' 
+            - 'Disesase specific LC-MS/MS quantification of Bsub>6</sub> vitamers' 
+            - 'The role of vitamin B<sub>6</sub> in idopathic seizure disorders'
           button:
-            text: 'Equipment Reservations'
-            url: '/resources/equipment'
+            text: 'View all our publications'
+            url: '/publications'
 
-        - title: 'Novel Genetic Therapies'
+        - title: 'Nonketotic hyperglycinemia'
           text: |
-            Although lysine reduction therapies improve clinical outcomes, nutritional based treatments are diffiuclt and associted with a negative impact on quality of life. We collaborate with the CHARLIE consoritum, other scientists, biotech, and pharmaceutical partners to evalute genetic based therapies for PDE-ALDH7A1. This includes several approaches to substrate reduction therapy. This work is funded by philanthropic donations and the CurePDE Foundation. 
-          image: curepde-lab.jpg
-          feature_icon: emoji/pill
+            We collaborate with Professor Johan Van Hove's [laboratory](https://medschool.cuanschutz.edu/pediatrics/sections/genetics-and-metabolism/research/nonketotic-hyperglycinemia-(nkh)-research-lab) to study Nonketotic Hyperglycinemia (NKH). In this collaborative work, we charecterized mutations in the genes **GLDC** and **AMT** that cause classic NKH. We also described clinical findings of NKH and biomarkers (imaging, genetic, and biochemical based) that may aid prognosis. Future works is focused the impact of vitamin B<sub>6</sub> in NKH.  
+          image: nkh.jpg
+          feature_icon: emoji/dna
           features:
-            - 'Zebrafish and mouse models allow us to evalute new treatments'
-            - 'Leveraging disease expertise to ensure meaningful outcomes' 
-            - 'Enagement with stakeholders to ensure patinet-first approaches'
-            - 'Translational approches to move quickly from lab to the clinic'
+            - 'Genetic basis of classic NKH [[Link](https://pubmed.ncbi.nlm.nih.gov/27362913/)]'
+            - 'Neuodevelomental outcomes in NKH [[Link](https://pubmed.ncbi.nlm.nih.gov/26749113/)]'
+            - 'Brain imagining and phenotype in NKH [[Link](https://pubmed.ncbi.nlm.nih.gov/30737808/)]'
+            - 'Biocehmical and molecular predictors of prognosis [[Link](https://pubmed.ncbi.nlm.nih.gov/26179960/)]'
           button:
-            text: 'Donate our research'
-            url: '/resources/computing'
+            text: 'View all our publications'
+            url: '/publications'
+
+        - title: 'Rare metabolic epilepsies'
+          text: |
+            We collaborate with clinicicans and scientits studying several rare, metabolic epilepsies. HCFC1 is a transcriptoinal regulator and mutations in HCFC1 can cause a severe neurologic phentoype, seizure or infantile spasms, and abnormal cobalmin metabolism. Along with Professors [Shaikh](https://som.cuanschutz.edu/Profiles/Faculty/Profile/7943) and van Hove, we described HCFC1 deficeincy and later show that this disorder can mimic abnormal biochemistry of NKH.  We also described the inital patient with CARS2 encephalopthay, a mitochondrial disorder and that presented with epileptic encpahlopathy, and a novel biomaker for ECHS1 where patients have leigh syndrome and (at least for most patients) seizures.  
+          image: hcfc1.png
+          feature_icon: emoji/dna
+          features:
+            - 'A rare X-linked cobalamin disorder: HCFC1 [[Link](https://pubmed.ncbi.nlm.nih.gov/24011988/)]'
+            - 'HCFC1 and elecated CSF glycine and MMA levels [[Link](https://pubmed.ncbi.nlm.nih.gov/28363510/)]' 
+            - 'Mutations in CARS2 leads to a severe epileptic encphalopathy [[Link](https://pubmed.ncbi.nlm.nih.gov/25787132/)]'
+            - 'The clinical and biochemical charecterization of ECHS1 defciency [[Link](https://pubmed.ncbi.nlm.nih.gov/26081110/)]'
+          button:
+            text: 'View all our publications'
+            url: '/publications'
     design:
       css_class: "bg-white dark:bg-gray-800"
 
@@ -122,29 +122,7 @@ sections:
           icon: emoji/microscope
     design:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
-
-  - block: markdown
-    content:
-      title: 'Key publications'
-      subtitle: ''
-      text: |
-        Below are select publications that highlight our work on PDE-ALDH7A1. Our other mansucripts on PDE-ALDH7A1 are avaiable in the publication section of this website and on public databases such as [Google Scholar](https://scholar.google.com/citations?user=Qfj6eIMAAAAJ&hl=en). 
-
-        <small>
-
-        1. van Karnebeek CDM, Galius-Durner V, Engelke UF, Seisenberger C, Marschall S, Dragano NRV, da Silva-Buttkus P, Leuchtenberger S, Fuchs H, de Angelis MH, Wevers R, **Coughlin CR 2nd**, Lefeber DJ. New treatment for PDE-ALDH7A1: First proof-of-principle of upstream enzyme inhibition in the mouse. Brain Comm. 2025 Oct 14;7(6):fcaf397 [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12598649/)
-
-        2. **Pauly K**, **Woontner M**. Abdenur JE, Chaudhari BP, Gosselin R, Kripps KA, Thomas JA, Wempe MF, Gospe SM Jr, **Coughlin CR 2nd**. Feasibility of newborn screening for pyridoxine-dependent epilepsy. Mol Genet Metab. 2025 Jan; 144(1):109002. [Link](https://pubmed.ncbi.nlm.nih.gov/39729892/)
-
-        3. **Coughlin CR 2nd**, Tseng, LA, Bok LA, Hartmann H, Footitt E, Striano P, Tabarki BM, Lunsing RJ, Stockler-Ipsiroglu S, Gordon S, Van Hove LK, Abdenur JE, Boyer M, Longo N, Andrews A, Janssen MCH, van Wegberg A, Prasad C, Prasad AN, Lamb MM, Wijburg FA, Gospe SM Jr, van Karnebeek C, International PDE Consortium. Association between lysine reduction therapies and cognitive outcomes in patients with pyridoxine-dependent epilepsy. Neurology. 2022 Aug 25:99(23):e2627-36. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9754645/)
         
-        4. **Coughlin CR 2nd**, Tseng LA*, Abdenur JE, Ashmore C, Boemer F, Bok LA, Boyer M, Buhas D, Clayton PT, Das A, Dekker H, Evangeliou A, Feillet F, Footitt EJ, Gospe SM Jr, Hartman H, Kara  M, Kristensen E, Lee J, Lilje R, Longo N, Lunsing RJ, Pearl PL, Piazzon F, Plecko B, Saini AG, Santra S, Sjarif DR, Stockler-Ipsiroglu S, Striano P, Van Hove JLK, Verhoeven-Duif NM, Wijburg FA, Zuberi SM, van Karnebeek CDM†. Consensus guidelines for the diagnosis and management of pyridoxine-dependent epilepsy due to α-aminoadipic semialdehyde dehydrogenase deficiency. J Inherit Metab Dis. 2021 Jan;44(1):178-192. [Link](https://pubmed.ncbi.nlm.nih.gov/33200442/)
-        
-        5. Wempe MF, Kumar A, Kumar V, Choi YJ, Swanson MA, Friederich MW., Hyland K, Yue WW, Van Hove JLK, **Coughlin CR 2nd**. Identification of a novel biomarker for pyridoxine-dependent epilepsy: Implications for newborn screening. J Inherit Metab Dis. 2019 May;42(3):565-574. [Link](https://pubmed.ncbi.nlm.nih.gov/30663059/)
-        
-        </small> 
-        
-       
     design:
       columns: '1'
       css_class: "bg-primary-50 dark:bg-primary-900/10"
@@ -152,28 +130,25 @@ sections:
   - block: contact-info
     id: contact
     content:
-      title: Plan Your Visit
-      subtitle: 'Experience Our Facilities Firsthand'
-      visit_title: 'Visit Us'
+      title: Contact Us
+      subtitle: ''
+      visit_title: 'Mailing Address'
       connect_title: 'Connect'
       address:
         lines:
-          - Research Lab
-          - Science Building, University of Excellence
-          - 123 Science Drive
-          - Excellence City, EC 12345
-      office_hours:
-        - 'Monday - Friday: 8:00 AM - 6:00 PM'
-        - 'Saturday: 9:00 AM - 2:00 PM'
-        - 'Sunday: By appointment only'
-      email: 'facilities@example.edu'
-      phone: '+1 (555) 123-4567'
+          - University of Colorado Anschutz 
+          - RC1 North, P18-3401A
+          - Mail stop 8313
+          - Aurora, Colorado 80045
+      Univerity of Colorado Anschutz:
+      email: 'coughlinlab@gmail.com'
+      phone: '+1 (303) 724.5319'
       social:
+        - icon: brands/facebook
+          url: https://www.facebook.com/coughlin.pde.lab/
         - icon: brands/linkedin
-          url: https://linkedin.com
-        - icon: brands/x
-          url: https://x.com
-      map_url: 'https://maps.google.com/?q=Science+Building+Excellence+City'
+          url: https://www.linkedin.com/in/curtiscoughlinii/
+      map_url: 'https://maps.app.goo.gl/qEkYNTcJFVFUEwco9'
     design:
       css_class: "dark bg-gray-900 text-white"
 ---

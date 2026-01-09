@@ -9,7 +9,7 @@ tags:
   - Therapeutic Advances
   - Rare Disease Studies
 featured: true
-summary: "Focus on understanding natural history of GA1 and the impact of biochemistry on clinical outcomes. Ensuring advances in treatment are patient-centered." 
+summary: "We focus on understanding the natural history and the impact of metabolism on clinical outcomes. We aim to ensure advances in treatment are patient-centered." 
 design:
   # Section spacing
   spacing: '5rem'
@@ -21,15 +21,15 @@ sections:
       title: |
         **Glutaric Aciduria Type 1**
       text: |
-        This work is based on 50 years of GA1 focused research led by Professor Steve Goodman. Dr. Goodman was a formal mentor to Drs. Coughlin and Woontner and a preeminent GA1 researcher. A breif description of his career and impact on our current research is described below.  
+        This work is based on 50 years of GA1 research led by Professor Steve Goodman. Dr. Goodman was a mentor to Drs. Coughlin and Woontner and a preeminent scientist. A breif description of his career is described below.  
       primary_action:
-        text: Schedule a Tour
+        text: Contact us
         url: '#contact'
-        icon: hero/calendar
+        icon: hero/phone
       secondary_action:
-        text: Equipment Catalog
+        text: Coughlin lab overview
         url: '#equipment'
-        icon: hero/document-text
+        icon: hero/beaker
     design:
       css_class: ""
       background:
@@ -48,35 +48,35 @@ sections:
       items:
         - title: 'Clinical Research'
           text: |
-            Newborn screening dramatically changed the natural history of GA1,  although many patients continue to have devestating symptomes. We aim to understand the current natural history of GA1 including the number of patients who have a basal ganglia injury and non-strital (i.e. non metabolic stroke) symptoms. This data is critial in developing future treatments. This work is funded by NIH (ROAR consoritum) and Alnylam Pharmaceuticals. We also work closely with patient and advocay groups to accomplish these goals. 
+            Newborn screening (NBS) dramatically changed the natural history of GA1,  although many patients continue to have devestating symptomes. We aim to understand the post NBS natural history of GA1 including the number of patients who have a basal ganglia injury and non-strital (i.e. non metabolic stroke) symptoms. This data is critial in developing future treatments. This work is funded by NIH (ROAR consoritum) and Alnylam Pharmaceuticals. We also work closely with patient and advocay groups to accomplish these goals. 
           image: OAA_mtg.jpg
           feature_icon: emoji/hospital
           features:
-            - 'First clinical studies using lysine-reduction therapies (LRT)'
-            - 'Demonstration that early treatment with LRT improves IQ' 
-            - 'Patient advocacy through the Organic Aciddmia Associtaion [[Link](https://oaanews.org/)]' 
-            - 'Information on the Rare Organic Acidemia Research Consortium [[Link](https://www.rarediseasesnetwork.org/roar)]'
+            - 'Understanding the risk of striatal necrosis'
+            - 'Evaluating extra striatal symptoms' 
+            - 'The Organic Aciddmia Associtaion [[Link](https://oaanews.org/)]' 
+            - 'The Rare Organic Acidemia Research Consortium [[Link](https://www.rarediseasesnetwork.org/roar)]'
           button:
             text: 'Join our Natural History Study'
             url: 'https://ga1study.org/'
 
         - title: 'Basic Research'
           text: |
-            We aim to understand the underlying disease mechansim of GA1 with a focus on biochemistry. Our work has focused on a zebrafish model which has several advantages to studying early develpoment changes in this glial cell disorder. We also collaborate with scientist around the world evaluting novel genetic and cellular therapies for GA1 The  This work is currently funded internally(Univeristy of Colorado Anschutz). 
+            We focus on the underlying disease mechansim of GA1 and how abnormal metabolism impacts disease phenotype. Our reserach utilizes a zebrafish model which has several advantages to studying this glial cell disorder. We also collaborate with scientist to evalute novel genetic and cellular therapies for GA1 The  This work is currently funded internally. 
           image: zebrafish.jpg
           feature_icon: emoji/dna
           features:
-            - 'Animal models to elucidate the impact of metabolic dysfunction'
-            - 'Human samples focused on biomakers associated with clinical outcome'
-            - 'Evaluation of novel therapetuic treatments such as subtrate reduction'
+            - 'Animal models to study metabolic dysfunction'
+            - 'Biomakers associated with clinical outcome'
+            - 'Evaluation of novel treatments such as subtrate reduction'
             - 'Translation of research results to clinical partners'
           button:
-            text: 'Equipment Reservations'
-            url: '/resources/equipment'
+            text: 'View our publicatoins'
+            url: '/publications'
 
         - title: 'Stephen I. Goodman, MD'
           text: |
-            Professor Goodman was a leader in the field of inborn errors of metabolism and founding member of the Society of Inherited Metabolic Disorders. Over his distingused 55 year carreer, his major research focus was glutaric aciduria type 1 and 2. Among other accomplishements, he described the first two siblings with GA1 who presented after a minor illness. He charecterized the biochemical anomalies, identified the gene *GCDH*, and described the enzyme deficiency in GA1. He developed a mouse model still used today to study GA1. He was invovled in many clinical studies describing the features of patients and developing guidelines for management. 
+            Professor Goodman was a leader in the field of inborn errors of metabolism and founding member of the Society of Inherited Metabolic Disorders. Over his distingused 55 year carreer, his primary focus was glutaric aciduria type 1 and 2. Among other accomplishements, he described the first patient with GA1, identified the gene *GCDH*, and described the enzyme deficiency in GA1. He developed a mouse model that still used by several laboratories today to study GA1. He was invovled in many clinical studies describing the features of patients with GA1 and the initial guidelines for management. 
           image: goodman.jpg
           feature_icon: emoji/pill
           features:
@@ -151,28 +151,25 @@ sections:
   - block: contact-info
     id: contact
     content:
-      title: Plan Your Visit
-      subtitle: 'Experience Our Facilities Firsthand'
-      visit_title: 'Visit Us'
+      title: Contact Us
+      subtitle: ''
+      visit_title: 'Mailing Address'
       connect_title: 'Connect'
       address:
         lines:
-          - Research Lab
-          - Science Building, University of Excellence
-          - 123 Science Drive
-          - Excellence City, EC 12345
-      office_hours:
-        - 'Monday - Friday: 8:00 AM - 6:00 PM'
-        - 'Saturday: 9:00 AM - 2:00 PM'
-        - 'Sunday: By appointment only'
-      email: 'facilities@example.edu'
-      phone: '+1 (555) 123-4567'
+          - University of Colorado Anschutz 
+          - RC1 North, P18-3401A
+          - Mail stop 8313
+          - Aurora, Colorado 80045
+      Univerity of Colorado Anschutz:
+      email: 'coughlinlab@gmail.com'
+      phone: '+1 (303) 724.5319'
       social:
+        - icon: brands/facebook
+          url: https://www.facebook.com/coughlin.pde.lab/
         - icon: brands/linkedin
-          url: https://linkedin.com
-        - icon: brands/x
-          url: https://x.com
-      map_url: 'https://maps.google.com/?q=Science+Building+Excellence+City'
+          url: https://www.linkedin.com/in/curtiscoughlinii/
+      map_url: 'https://maps.app.goo.gl/qEkYNTcJFVFUEwco9'
     design:
       css_class: "dark bg-gray-900 text-white"
 ---
