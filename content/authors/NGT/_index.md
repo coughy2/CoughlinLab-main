@@ -48,7 +48,7 @@ social:
     link: https://www.linkedin.com/in/michael-chen-phd
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Author's website URL
 website: ""

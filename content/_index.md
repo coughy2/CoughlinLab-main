@@ -64,7 +64,7 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: center
+          position: top
           size: cover
           text_color_light: true
       spacing:
@@ -75,7 +75,7 @@ sections:
     content:
       title: Research Focus Areas
       subtitle: " "
-      text: As a translational research lab, we aim to make real world impact by moving through various research stages such as basic science, preclincial studies, and clinical application. 
+      text: We are a translational research lab and aim to make real world impact by moving through various research stages including basic science, preclincial studies, and clinical application. 
       items:
         - name: Rare Disease Studies 
           description: Natural history studies enhance our understanding of disease, set research priorities, and provide historical data for clincial trials  
@@ -93,7 +93,7 @@ sections:
             url: /research/materials-science
 
         - name: Disease Mechanisms
-          description: Patient samples and disease models help us understand the cause of disease. Biochemical studies identify biomakers for diagnosis & treatment
+          description: Patient samples and model systems help us study and the cause of disease. Biochemical studies identify biomakers for diagnosis & treatment
           icon: emoji/dna
           gradient: from-purple-400 to-pink-600
           status: active
@@ -136,7 +136,7 @@ sections:
     id: team
     content:
       title: Meet Our Team
-      subtitle: 'Dedicated team of scientists and students focused on rare disease'
+      subtitle: 'A dedicated group of scientists and students focused on rare disease'
       text: 
       user_groups:
         - Researchers
@@ -267,7 +267,7 @@ sections:
           external: true
           description: CurePDE Foundation
         - name: OAA
-          image: partners/oaa-logo.png
+          image: partners/oaa_logo2.png
           url: https://oaanews.org/
           external: true
           description: Organic Acidemia Association
@@ -292,7 +292,7 @@ sections:
         icon: hero/user-plus
     design:
       display_mode: grid
-      show_pattern: false
+      show_pattern: true
       css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900"
       spacing:
         padding: ["4rem", 0, "4rem", 0]
