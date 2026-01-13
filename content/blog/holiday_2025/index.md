@@ -1,5 +1,5 @@
 ---
-title: Winter Holiday 2025
+title: Winter Holiday Party 2025
 summary: Science is fun. Science is curiosity. We all have natural curiosity...
 date: 2025-12-18
 

@@ -1,5 +1,5 @@
 ---
-title: 'Research Facilities & Infrastructure'
+title: 'Coughlin Research Lab'
 date: 2024-05-20
 type: landing
 
@@ -12,9 +12,9 @@ sections:
   - block: hero
     content:
       title: |
-        World-Class **Research Facilities**
+        The Coughlin Laboratory
       text: |
-        Our state-of-the-art research infrastructure provides the foundation for groundbreaking discoveries. From specialized laboratories to high-performance computing resources, every facility is designed to accelerate scientific innovation.
+        The **University of Colorado Anschutz** is a state-of-the-art research campus and provides infrastructure for groundbreaking discoveries. From specialized laboratories to high-performance computing resources, every facility is designed to accelerate scientific innovation.
       primary_action:
         text: Schedule a Tour
         url: '#contact'
@@ -58,36 +58,50 @@ sections:
   - block: cta-image-paragraph
     content:
       items:
-        - title: 'Advanced Computational Resources'
+        - title: 'Spectroscopy'
           text: |
-            Our high-performance computing cluster provides researchers with unprecedented computational power for complex simulations, machine learning model training, and large-scale data analysis. The facility features redundant power systems, advanced cooling, and 24/7 monitoring to ensure maximum uptime for critical research workflows.
-          image: pexels-abby-chung-371167-1106468.jpg
-          feature_icon: hero/server
+            Many of our primary research questions foucs on the association between the abnormal metabolism and disaese phenotype. This requires accurate measurement of several biomakers through approaches such as liquid chromatography tandem mass spectrometry (LC-MS/MS). Our spectroscopy equipment is the heart and soul of our laboratory. This work has led to the identificaition and clinical validation of novel biomakers, and demonstration that new therapeutic approaches and improve the abnormal biochemistry in various model systems.
+          image: kristie_ms.jpg
+          feature_icon: hero/beaker
           features:
-            - '500+ CUDA cores across multiple GPU nodes for parallel processing'
-            - '100TB high-speed storage with automated backup systems'  
-            - 'Dedicated network infrastructure with 10Gbps connectivity'
-            - '24/7 system monitoring and technical support'
+            - 'Waters H-Class UPLC system'
+            - 'Waters TQD Triple Quadrupole MS'  
+            - 'Waters Tunable UV (TUV) detector'
+            - 'Waters Fluorescence (FLR) detector'
           button:
             text: 'Request Computing Access'
             url: '/resources/computing'
 
-        - title: 'Precision Laboratory Equipment'
+        - title: 'Disease Model Systems'
           text: |
-            Our laboratories are equipped with cutting-edge instrumentation for materials characterization, biological analysis, and chemical synthesis. Each lab maintains strict environmental controls and safety protocols while providing researchers access to the most advanced scientific instruments available.
-          image: pexels-pixabay-356040.jpg
+            Our reserach has primarly foucsed on two rare diseases: pyridoxine-dependent epilepsy (PDE-ALDH7A1) and glutaric aciduria type 1 (GA1). To study PDE-ALDH7A1 we utize both e.coli and yeast systems to evalute the impact of disease variants and animal models to answer complex questions about diease mechanism. Although Dr. Woontner played a significant role in the develoment of the GA1 murine model, we have moved to a zebrafish model of GA1.  
+          image: nicole_bench.jpg
           feature_icon: hero/beaker
           features:
-            - 'Advanced microscopy suite: SEM, TEM, AFM, and confocal systems'
-            - 'Spectroscopy equipment: NMR, FTIR, UV-Vis, and mass spectrometry'
-            - 'Clean room facilities with Class 100 and Class 1000 environments'
-            - 'Automated sample preparation and analysis workflows'
+            - 'Samples from study participants'
+            - 'E.coli based expression system for ALDH7A1'
+            - 'Mouse model of PDE-ALDH7A1'
+            - 'Zebrafish models of PDE-ALDH7A1 and GA1'
+          button:
+            text: 'Equipment Reservations'
+            url: '/resources/equipment'
+
+        - title: 'Patient Engagement'
+          text: |
+            Our reserach has primarly foucsed on two rare diseases: pyridoxine-dependent epilepsy (PDE-ALDH7A1) and glutaric aciduria type 1 (GA1). To study PDE-ALDH7A1 we utize both e.coli and yeast systems to evalute the impact of disease variants and animal models to answer complex questions about diease mechanism. Although Dr. Woontner played a significant role in the develoment of the GA1 murine model, we have moved to a zebrafish model of GA1.  
+          image: Jen_PDE.jpg
+          feature_icon: hero/beaker
+          features:
+            - 'Samples from study participants'
+            - 'E.coli based expression system for ALDH7A1'
+            - 'Mouse model of PDE-ALDH7A1'
+            - 'Zebrafish models of PDE-ALDH7A1 and GA1'
           button:
             text: 'Equipment Reservations'
             url: '/resources/equipment'
     design:
       css_class: "bg-white dark:bg-gray-800"
-
+    
   - block: features
     id: equipment
     content:

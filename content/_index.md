@@ -17,11 +17,11 @@ sections:
       text: |
         We focus on rare, neurometabolic disorders. We aim to understand biological and disease mechansims, develop novel therapies, and help implement proven treatments into clinical care. We believe in patient-centered research and combine rigorous scientific methods with patient engagement approaches.
       primary_action:
-        text: Meet Our Team
-        url: '#team'
-        icon: hero/user-group
+        text: Virtual Lab Visit
+        url: '/facilities'
+        icon: hero/map-pin
       secondary_action:
-        text: View Publications
+        text: View Our Publications
         url: '/publications'
         icon: hero/academic-cap
       announcement:
@@ -307,11 +307,12 @@ sections:
       address:
         lines:
           - University of Colorado Anschutz 
+          - 12800 E. 17th Ave
           - RC1 North, P18-3401A
           - Mail stop 8313
-          - Aurora, Colorado 80045
+          - Aurora, CO 80045
       Univerity of Colorado Anschutz:
-      email: 'coughlinlab@gmail.com'
+      email: 'coughlin.lab@gmail.com'
       phone: '+1 (303) 724.5319'
       social:
         - icon: brands/facebook
