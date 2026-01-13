@@ -55,17 +55,3 @@ user_groups:
   - Graduate Students
 ---
 
-Sarah is a 4th year PhD student working on machine learning methods for analyzing single-cell genomic data. Her research aims to identify disease biomarkers and develop personalized treatment strategies.
-
-## Research Focus
-
-Sarah's dissertation research focuses on developing interpretable machine learning models for:
-- Single-cell RNA sequencing analysis
-- Patient stratification in cancer genomics
-- Biomarker discovery for rare diseases
-
-## Awards & Honors
-
-- 2023 - NSF Graduate Research Fellowship
-- 2022 - Best Poster Award, International Conference on Computational Biology
-- 2021 - University Excellence Fellowship
