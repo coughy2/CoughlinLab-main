@@ -13,7 +13,7 @@ sections:
     id: about
     content:
       title: |
-        Coughlin Research Laboratory
+        The Coughlin Laboratory
       text: |
         We focus on rare, neurometabolic disorders. We aim to understand biological and disease mechansims, develop novel therapies, and help implement proven treatments into clinical care. We believe in patient-centered research and combine rigorous scientific methods with patient engagement approaches.
       primary_action:
@@ -90,7 +90,7 @@ sections:
           funding: NIH/Philanthropy
           cta:
             text: Learn more or enroll 
-            url: /research/materials-science
+            url: /research/natural-history
 
         - name: Disease Mechanisms
           description: Patient samples and model systems help us study and the cause of disease. Biochemical studies identify biomakers for diagnosis & treatment

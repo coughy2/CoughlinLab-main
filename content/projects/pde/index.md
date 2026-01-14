@@ -95,18 +95,18 @@ sections:
     id: equipment
     content:
       title: Coughlin Research Laboratory Overview 
-      text: We are a translational reserch laboratory focused on patient-centered reserach.  We combine rigours scientic methods with patient engagement approaches. 
+      text: We are a translational research laboratory. We combine rigorous scientic methods with patient engagement approaches. 
       items:
         - name: 'Natural History Studies'
-          description: 'Clincical outcomes help prioritze reserch goals and provide critical control data in clincial trials'
+          description: 'Clincical outcomes help us prioritze reserch goals and provide critical control data in clincial trials'
           icon: emoji/clipboard
           
         - name: 'Record of Collaboration'
-          description: 'Collaboration with clinican and scientist advance research and translation of results to the bedside'
+          description: 'Collaboration with clinican-scientists advance research goals and speed translation of results to the bedside'
           icon: emoji/hospital
           
         - name: 'Enagement Stratagies'
-          description: 'Partnerships with patients and families to enusre our reserach goals are patient-centered'
+          description: 'Partnerships with families help enusre our reserach goals are patient-centered and clinically meaningful'
           icon: emoji/family_man_man_girl_boy
           
         - name: 'Model Systems for Rare Disease'
@@ -114,7 +114,7 @@ sections:
           icon: emoji/mouse2
           
         - name: 'Omics Expertise'
-          description: 'Exerpience in  genonmics, metaoblimics, proteomics with a focus on disease mechanism'
+          description: 'Exerpience in  genonmics, metabolomics, and proteomics with a focus on disease mechanism'
           icon: emoji/dna
           
         - name: 'Spectroscopy Laboratory'
