@@ -5,7 +5,7 @@ authors:
 - Emma Footitt
 - Reddy Vootukuri
 - Michael F. Wempe
-- Curtis R. Coughlin
+- admin
 - Spyros Batzios
 - Matthew P. Wilson
 - Viktor Kožich
@@ -15,7 +15,7 @@ date: '2025-01-01'
 publishDate: '2025-12-29T01:49:05.171185Z'
 publication_types:
 - article-journal
-publication: '*J Inherit Metab Dis*'
+publication: 'J Inherit Metab Dis. Jan;48(1):e12783'
 doi: 10.1002/jimd.12783
 abstract: ALDH7A1 deficiency is an epileptic encephalopathy whose seizures respond
   to treatment with supraphysiological doses of pyridoxine. It arises as a result

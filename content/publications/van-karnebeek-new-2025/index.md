@@ -19,8 +19,13 @@ date: '2025-01-01'
 publishDate: '2025-12-29T01:49:05.142950Z'
 publication_types:
 - article-journal
-publication: '*Brain Commun*'
-doi: 10.1093/braincomms/fcaf397
+publication: 'Brain Commun. Oct 14;7(6):fcaf397'
+
+
+hugoblox:
+  ids:
+    doi: 10.1093/braincomms/fcaf397
+
 abstract: Pyridoxine-dependent epilepsy (PDE) due to recessive ALDH7A1 mutations is
   characterized by intractable epilepsy that is often unresponsive to antiseizure
   medications. Irrespective of pyridoxine (vitamin B6) supplementation and lysine
