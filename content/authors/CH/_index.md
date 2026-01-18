@@ -11,15 +11,11 @@ organizations:
     url: https://www.example.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigating machine learning applications in genomic medicine and personalized healthcare.
+bio: Graduate student 
 
 # Interests to show in About widget
 interests:
-  - Genomic Medicine
-  - Machine Learning
-  - Precision Medicine
-  - Single-Cell Analysis
-  - Healthcare AI
+  - 
 
 # Education to show in About widget
 education:
@@ -34,18 +30,10 @@ education:
 # Social/Academic Networking
 social:
   - icon: hero/envelope
-    link: 'mailto:sarah.johnson@example.edu'
-  - icon: brands/x
-    link: https://twitter.com/SarahJ_CompBio
-  - icon: brands/google-scholar
-    link: https://scholar.google.com/citations?user=XXXXXXX
-  - icon: brands/github
-    link: https://github.com/sjohnson-compbio
-  - icon: brands/linkedin
-    link: https://www.linkedin.com/in/sarah-johnson-compbio
+    link: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Author's website URL
 website: "https://sarahjohnson.github.io"

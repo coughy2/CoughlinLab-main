@@ -7,19 +7,18 @@ role: Researcher, Lab Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Excellence
-    url: https://www.example.edu/
+  - name: Univeristy of Colorado Anschutz
+    url: https://www.cuanschutz.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: scientist by day and jurassic park enthusiast at night
+bio: "Dinosaurs eat man. Woman inherits the earth." 
 
 # Interests to show in About widget
 interests:
-  - Systems Biology
-  - Network Analysis
-  - Drug Repurposing
-  - Cell Signaling
-  - Multi-omics Integration
+  - Zebrafish
+  - Roller skates
+  - Patient engagement
+  
 
 # Education to show in About widget
 education:
@@ -37,15 +36,10 @@ education:
 # Social/Academic Networking
 social:
   - icon: hero/envelope
-    link: 'mailto:alex.wong@example.edu'
-  - icon: brands/x
-    link: https://twitter.com/AlexWongSysBio
-  - icon: brands/google-scholar
-    link: https://scholar.google.com/citations?user=XXXXXXX
-  - icon: brands/github
-    link: https://github.com/awong-sysbio
-  - icon: brands/linkedin
-    link: https://www.linkedin.com/in/alex-wong-sysbio
+    link: 'mailto:coughlin.lab@gmail.com'
+  - icon: brands/facebook
+    link: https://www.facebook.com/coughlin.pde.lab/
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -58,18 +52,3 @@ user_groups:
   - Researchers
 ---
 
-Kristie Pauly joined the Coughlin laboratory in 2018 to lead the work focused on  from Harvard Medical School. Alex's research focuses on systems biology approaches to understanding disease mechanisms and identifying therapeutic targets.
-
-## Research Interests
-
-Alex specializes in:
-- Building computational models of cellular signaling networks
-- Integrating multi-omics data to understand disease states
-- Identifying drug repurposing opportunities through network analysis
-- Developing tools for systems-level analysis of biological data
-
-## Key Publications
-
-- Wong A, et al. (2023). "Network-based drug repurposing for COVID-19." *Science Translational Medicine*.
-- Wong A, et al. (2022). "Multi-omics integration reveals disease mechanisms." *Nature Biotechnology*.
-- Wong A, et al. (2021). "Systems biology of cancer drug resistance." *Cell Systems*.

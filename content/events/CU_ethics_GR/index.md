@@ -24,7 +24,7 @@ tags: ["Podcast", "Ethics"]
 featured: false
 
 image:
-  caption: 'Photo by Vitaly Gariev on Unsplash
+  caption: 'Center for Bioethics & Humanities
       '
   focal_point: Center
 

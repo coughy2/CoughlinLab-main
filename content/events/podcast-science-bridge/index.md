@@ -24,8 +24,7 @@ tags: ["Podcast", "Reserach", "Ethics"]
 featured: false
 
 image:
-  caption: 'Photo by <a href="https://unsplash.com/@farber?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonathan Farber</a> on <a href="https://unsplash.com/photos/gray-ad-black-condenser-microphone-KVlcVi-Ulgo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      '
+  caption: ''
   focal_point: Center
 
 links:

@@ -136,7 +136,7 @@ sections:
     id: team
     content:
       title: Meet Our Team
-      subtitle: 'A dedicated group of scientists and students focused on rare disease'
+      subtitle: 'A dedicated group of scientists focused on rare disease'
       text: 
       user_groups:
         - Researchers
@@ -145,8 +145,8 @@ sections:
       sort_by: 'Params.last_name'
       sort_ascending: true
       cta:
-        text: View All Team Members
-        url: /authors
+        text: Team Member News
+        url: /blog
         icon: user-group
     design:
       show_role: true
@@ -313,7 +313,7 @@ sections:
           - Aurora, CO 80045
       Univerity of Colorado Anschutz:
       email: 'coughlin.lab@gmail.com'
-      phone: '+1 (303) 724.5319'
+      phone: '+1 (303) 724.3814'
       social:
         - icon: brands/facebook
           url: https://www.facebook.com/coughlin.pde.lab/

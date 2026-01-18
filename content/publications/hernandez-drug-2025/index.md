@@ -6,13 +6,20 @@ authors:
 - Michael V. Zaretsky
 - Brian M. Jackson
 - Gianna G. Morales
-- Curtis R. Coughlin
+- admin
 - David Badesch
 - Matthew DeCamp
 date: '2025-10-01'
 publishDate: '2025-12-29T01:49:05.155029Z'
 publication_types:
 - article-journal
-publication: '*Am J Bioeth*'
-doi: 10.1080/15265161.2025.2543720
+publication: 'Am J Bioeth. Oct:25(10):102-104'
+tags:
+- Ethics
+featured: false
+
+hugoblox:
+  ids:
+    doi: 10.1080/15265161.2025.2543720
+
 ---

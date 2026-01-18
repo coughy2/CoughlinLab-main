@@ -7,19 +7,17 @@ role: Associate Professor (semi-retired)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Excellence
-    url: https://www.example.edu/
+  - name: University of Colorado Anschtuz
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Exploring neural network architectures for biological sequence analysis and prediction.
+bio: Exploring lysine metabolism and varoius coffee brewing methods.
 
 # Interests to show in About widget
 interests:
-  - Neural Networks
-  - Sequence Analysis
-  - Natural Language Processing
-  - Bioinformatics
-  - Open Source Software
+  - Inborn errors of metabolism
+  - Glutaric Aciduria type 1
+  - Biochemistry
 
 # Education to show in About widget
 education:
@@ -37,13 +35,7 @@ education:
 # Social/Academic Networking
 social:
   - icon: hero/envelope
-    link: 'mailto:emily.davis@example.edu'
-  - icon: brands/google-scholar
-    link: https://scholar.google.com/citations?user=XXXXXXX
-  - icon: brands/github
-    link: https://github.com/emily-davis-ml
-  - icon: brands/linkedin
-    link: https://www.linkedin.com/in/emily-davis-ml
+    link: 'mailto:coughlin.lab@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -55,16 +47,3 @@ website: ""
 user_groups:
   - Researchers
 ---
-
-Emily is a 2nd year PhD student co-advised by Prof. Smith and Prof. Zhang from the Computer Science department. She is developing novel neural network architectures for biological sequence analysis.
-
-## Current Projects
-
-- **BioTransformer**: Adapting large language models for DNA/RNA sequence analysis
-- **SeqGAN**: Generative models for protein sequence design
-- **OpenSeq**: Open-source toolkit for biological sequence processing
-
-## Teaching
-
-- Teaching Assistant: CS 585 - Machine Learning for Biology (Fall 2023)
-- Guest Lecturer: Introduction to Bioinformatics (Spring 2023)
