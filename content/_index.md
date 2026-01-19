@@ -15,7 +15,7 @@ sections:
       title: |
         The Coughlin Laboratory
       text: |
-        We focus on rare, neurometabolic disorders. We aim to understand biological and disease mechansims, develop novel therapies, and help implement proven treatments into clinical care. We believe in patient-centered research and combine rigorous scientific methods with patient engagement approaches.
+        We focus on neurometabolic disorders. We aim to understand biological and disease mechansims, develop novel therapies, and help implement proven treatments into clinical care. We believe in patient-centered research and combine rigorous scientific methods with patient engagement approaches.
       primary_action:
         text: Virtual Lab Visit
         url: '/facilities'
@@ -75,7 +75,7 @@ sections:
     content:
       title: Research Focus Areas
       subtitle: " "
-      text: We are a translational research lab and aim to make real world impact by moving through various research stages including basic science, preclincial studies, and clinical application. 
+      text: As a translational research lab, we aim to make real world impact by moving through the various stages of research including basic science, preclincial studies, and clinical application. 
       items:
         - name: Rare Disease Studies 
           description: Natural history studies enhance our understanding of disease, set research priorities, and provide historical data for clincial trials  
@@ -93,7 +93,7 @@ sections:
             url: /research/natural-history
 
         - name: Disease Mechanisms
-          description: Patient samples and model systems help us study and the cause of disease. Biochemical studies identify biomakers for diagnosis & treatment
+          description: Patient samples and model systems help us study the underlying disease cause. Biochemical studies identify biomakers for diagnosis & treatment
           icon: emoji/dna
           gradient: from-purple-400 to-pink-600
           status: active
