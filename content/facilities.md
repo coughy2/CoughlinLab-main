@@ -39,17 +39,17 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "7.41 M"
+        - statistic: "7.41M"
           description: Square foot campus
           icon: hero/building-office
         - statistic: "4500"
           description: Students across 40 programs
           icon: hero/academic-cap
-        - statistic: "$704 M"
+        - statistic: "$704M"
           description: Research funding
           icon: hero/currency-dollar
-        - statistic: "$8.5 B"
-          description: Colorado economy
+        - statistic: "$8.5B"
+          description: to the Colorado economy
           icon: hero/currency-dollar
     design:
       layout: compact
