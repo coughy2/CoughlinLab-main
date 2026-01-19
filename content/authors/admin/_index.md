@@ -95,7 +95,6 @@ website: ""
 # User groups
 user_groups:
   - Researchers
-
 ---
 
 ## About the Lab

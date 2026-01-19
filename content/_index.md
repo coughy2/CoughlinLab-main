@@ -106,7 +106,7 @@ sections:
           funding: NIH/Philanthropy
           cta:
             text: Explore Projects
-            url: /research/computational-biology
+            url: /projects
             
         - name: Therapeutic Advances 
           description: Preclinical models are used to study genetic based treatments. We partner with scientists and pharma companies also focused on rare diseases
@@ -120,8 +120,8 @@ sections:
           publications: 70+
           funding: NIH/Philanthropy
           cta:
-            text: View Research
-            url: /research/machine-learning
+            text: Explore Projects
+            url: /projects
       cta:
         text: Active Research Projects
         url: /#projects
@@ -267,7 +267,7 @@ sections:
           external: true
           description: CurePDE Foundation
         - name: OAA
-          image: partners/oaa_logo2.png
+          image: partners/oaa-logo2.png
           url: https://oaanews.org/
           external: true
           description: Organic Acidemia Association
