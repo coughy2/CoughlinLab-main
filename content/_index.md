@@ -267,7 +267,7 @@ sections:
           external: true
           description: CurePDE Foundation
         - name: OAA
-          image: partners/oaa-logo2.png
+          image: partners/oaa-logo.png
           url: https://oaanews.org/
           external: true
           description: Organic Acidemia Association
