@@ -1,6 +1,6 @@
 ---
-title: 🧠 Nicole
-summary: Create a personal knowledge base and share your knowledge with your peers.
+title: HMGGP Annual Retreat
+summary: Nicole presents her recent work from the Coughlin Lab 
 date: 2025-10-26
 authors:
   - admin
@@ -8,118 +8,12 @@ tags:
   - Second Brain
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
+  focal_point: Top
 ---
+Nicole presented her early work focused on interpreting variants of unknown significance for two inborn errors of metabolism: pyridoxine-dependent epilepsy (PDE) and ornithine transcarbamylase (OTC) deficiency.  This work focused on both measuring enzyme activity using an e.coli-based expression vector and RNA studies using an OTC minigene. 
 
-Create a personal knowledge base and share your knowledge with your peers.
+Nicole will also present these projects at the [Society for Inherited Metabolic Disorders](https://simd.org/) meeting in May 2026.
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+![Alt text](/Nicole_Arjn.jpg)
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
-
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
-
-## Mindmaps
-
-Hugo Blox supports a Markdown extension for mindmaps.
-
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-
-## Highlighting
-
-<mark>Highlight</mark> important text with `mark`:
-
-```html
-<mark>Highlighted text</mark>
-```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-Use the `> [!NOTE]` syntax to create a callout.
-
-```markdown
-> [!NOTE]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-```
-
-renders as
-
-> [!NOTE]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-> [!WARNING]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-
-## Did you find this page helpful? Consider sharing it 🙌

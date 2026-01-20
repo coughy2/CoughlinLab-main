@@ -5,7 +5,7 @@ authors:
 - Marjorie Dixon
 - Chloe Millington
 - Laurie Bernstein
-- Curtis R. Coughlin
+- admin
 - Morgan Drumm
 - Sommer Gaughan
 - Clara D. M. van Karnebeek
@@ -14,8 +14,11 @@ date: '2024-05-01'
 publishDate: '2025-12-29T01:49:05.180217Z'
 publication_types:
 - article-journal
-publication: '*JIMD Rep*'
-doi: 10.1002/jmd2.12418
+publication: 'JIMD Rep. Apr 3;65(3):188-203'
+
+hugoblox:
+  ids:
+    doi: 10.1002/jmd2.12418
 abstract: Pyridoxine-dependent epilepsy (PDE-ALDH7A1) is a neurometabolic disorder
   in the lysine metabolism pathway. In 2014 and 2021, the International PDE consortium
   published consensus guidelines about diagnosis and management. In this follow-on,

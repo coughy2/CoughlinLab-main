@@ -11,13 +11,12 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Exploring lysine metabolism and varoius coffee brewing methods.
-
+bio: Exploring lysine metabolism and many things yeast related (except beer)
 # Interests to show in About widget
 interests:
   - Inborn errors of metabolism
   - Glutaric Aciduria type 1
-  - Biochemistry
+  - Molecular biology
 
 # Education to show in About widget
 education:
@@ -47,3 +46,9 @@ website: ""
 user_groups:
   - Researchers
 ---
+
+Dr. Woontner had a distinguished career as a biochemical genetisit in the Goodman Labortoray at the University of Colorado and Children's Hospital Colorado. After his retirement, he kindly volunteered in the Coughlin Laboratory and serves as a mentor to all of the scientists and students. 
+
+He often joins lab meeting full of ideas and pastries. He can be found in the lab trouble shooting failed experiments, working on cloning experiments, and settling bets.  
+
+![Alt text](/coffee.png)

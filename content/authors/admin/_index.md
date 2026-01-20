@@ -19,7 +19,7 @@ bio: Translational researcher focused on rare diseases and bioethics
 interests:
   - Inborn errors of metabolism
   - Clinical outcomes
-  - Bioethics
+  - Ethics and genetics 
 
 # Education to show in About widget
 education:
@@ -99,8 +99,10 @@ user_groups:
 
 ## About the Lab
 
-Dr. Curtis Coughlin leads the research laboratory at the University of Colorado Anschutz. He completed his doctoral training with [Dr. Stephen Goodman's](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jimd.12330), whose reserach lab focused on glutraic aciduria type 1 for 45 years. The Coughlin laboratory primary focus is lysine metabolism, which led to the identification of a novel metabolite within the degradation of lysine. This metabolites was later applied to newborn screening for PDE-ALDH7A1. Dr. Coughlin also prioritizes collabortive research approaches. Along with [Dr. Clara van Karnebeek](https://pure.amsterdamumc.nl/en/persons/clara-van-karnebeek/) and members of the [International PDE Consortium](http://wwws.pdeonline.org/), he helped establish the use of lysine reduction therapies for the treatment of PDE-ALDH7A1. 
+Dr. Curtis Coughlin leads the research laboratory at the University of Colorado Anschutz. He completed his doctoral training with [Dr. Stephen Goodman](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jimd.12330), and fondly remembers coffee fueled discusions about GA1 with Drs. Goodman and Woontner.  He has been fortuante to have several excellent mentors through various stages of his career. He prioritizes team-science and has worked closelyl with many amazing colleagues such as Professor [Sidney Gospe Jr](https://www.childneurologysociety.org/awards/sidney-m-gospe-jr/) and [Clara van Karnebeek](https://pure.amsterdamumc.nl/en/persons/clara-van-karnebeek/). 
 
 ## Leadership & Mentorship
 
 Dr. Coughlin has mentored several learners including indivduials in master degree and PhD progams, medical students and residents, and junior faculty members. He has completed several formal mentoring programs and is committed to fostering an inclusive and collaborative research environment where all team members can thrive.
+
+![Alt text](/coughlin2.jpg)
