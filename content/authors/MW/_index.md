@@ -47,7 +47,7 @@ user_groups:
   - Researchers
 ---
 
-Dr. Woontner had a distinguished career as a biochemical genetisit in the Goodman Labortoray at the University of Colorado and Children's Hospital Colorado. After his retirement, he kindly volunteered in the Coughlin Laboratory and serves as a mentor to all of the scientists and students. 
+Dr. Woontner had a distinguished career as a biochemical geneticist in the Goodman Labortoray at the University of Colorado and Children's Hospital Colorado. After his retirement, he kindly volunteered in the Coughlin Laboratory and serves as a mentor to all of the scientists and students. 
 
 He often joins lab meeting full of ideas and pastries. He can be found in the lab trouble shooting failed experiments, working on cloning experiments, and settling bets.  
 
