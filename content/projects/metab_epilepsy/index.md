@@ -9,7 +9,7 @@ tags:
   - Therapeutic Advances
   - Rare Disease Studies
 featured: true
-summary: "Understanding mechanism of individual metabolic epilepsy disorders and shared clinical outcome measures that can faciliate clinical trial designs."
+summary: "We aim to understand the mechanism of metabolic epilepsies and to identify shared clinical outcome measures that can faciliate clinical trial designs."
 
 design:
   # Section spacing
@@ -63,7 +63,7 @@ sections:
 
         - title: 'Nonketotic hyperglycinemia'
           text: |
-            We collaborate with Professor Johan Van Hove's [laboratory](https://medschool.cuanschutz.edu/pediatrics/sections/genetics-and-metabolism/research/nonketotic-hyperglycinemia-(nkh)-research-lab) to study Nonketotic Hyperglycinemia (NKH). In this collaborative work, we charecterized mutations in the genes **GLDC** and **AMT** that cause classic NKH. We also described clinical findings of NKH and biomarkers (imaging, genetic, and biochemical based) that may aid prognosis. Future works is focused the impact of vitamin B<sub>6</sub> in NKH.  
+            We collaborate with Professor Johan Van Hove's [laboratory](https://medschool.cuanschutz.edu/pediatrics/sections/genetics-and-metabolism/research/nonketotic-hyperglycinemia-(nkh)-research-lab) to study Nonketotic Hyperglycinemia (NKH). We initially charecterized mutations in the genes **GLDC** and **AMT** that cause classic NKH, and described biomarkers (imaging, genetic, and biochemical based) that may aid prognosis. We continue to collaborte with the Van Hove lab to understand the impact of vitamin B<sub>6</sub> and evlaute novel therapies.  
           image: nkh.jpg
           feature_icon: emoji/dna
           features:
@@ -77,7 +77,7 @@ sections:
 
         - title: 'Rare metabolic epilepsies'
           text: |
-            We collaborate with clinicicans and scientits studying several rare, metabolic epilepsies. HCFC1 is a transcriptoinal regulator and mutations in HCFC1 can cause a severe neurologic phentoype, seizure or infantile spasms, and abnormal cobalmin metabolism. Along with Professors [Shaikh](https://som.cuanschutz.edu/Profiles/Faculty/Profile/7943) and van Hove, we described HCFC1 deficeincy and later show that this disorder can mimic abnormal biochemistry of NKH.  We also described the inital patient with CARS2 encephalopthay, a mitochondrial disorder and that presented with epileptic encpahlopathy, and a novel biomaker for ECHS1 where patients have leigh syndrome and (at least for most patients) seizures.  
+            We collaborate with several clinicican-scientists who are studying metabolic epilepsies. HCFC1 is a transcriptoinal regulator and mutations in HCFC1 can cause a severe neurologic phentoype, seizure or infantile spasms, and abnormal cobalmin metabolism. Along with Professors [Shaikh](https://som.cuanschutz.edu/Profiles/Faculty/Profile/7943) and van Hove, we described HCFC1 deficeincy and later show that this disorder can mimic abnormal biochemistry of NKH.  We also described the inital patient with CARS2 encephalopthay, a mitochondrial disorder and that presented with epileptic encpahlopathy, and a novel biomaker for ECHS1 where patients have leigh syndrome and (at least for most patients) seizures.  
           image: hcfc1.png
           feature_icon: emoji/dna
           features:
