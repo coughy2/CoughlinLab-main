@@ -99,7 +99,7 @@ user_groups:
 
 ## About the Lab
 
-Dr. Curtis Coughlin leads the research laboratory at the University of Colorado Anschutz. He completed his doctoral training with [Dr. Stephen Goodman](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jimd.12330), and fondly remembers coffee fueled discusions about GA1 with Drs. Goodman and Woontner.  He has been fortuante to have several excellent mentors through various stages of his career. He prioritizes team-science and has worked closelyl with many amazing colleagues such as Professor [Sidney Gospe Jr](https://www.childneurologysociety.org/awards/sidney-m-gospe-jr/) and [Clara van Karnebeek](https://pure.amsterdamumc.nl/en/persons/clara-van-karnebeek/). 
+Dr. Curtis Coughlin leads the research laboratory at the University of Colorado Anschutz. He completed his doctoral training with [Dr. Stephen Goodman](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jimd.12330), and fondly remembers coffee fueled discusions about GA1 with Drs. Goodman and Woontner.  He has been fortuante to have several excellent mentors through the various stages of his career. He prioritizes team-science and has worked with many amazing colleagues such as Professor [Sidney Gospe Jr](https://www.childneurologysociety.org/awards/sidney-m-gospe-jr/) and [Clara van Karnebeek](https://pure.amsterdamumc.nl/en/persons/clara-van-karnebeek/) who continue to teach him about pyridoxine-dependent epilepsy. 
 
 ## Leadership & Mentorship
 
