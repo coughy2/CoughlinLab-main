@@ -9,7 +9,10 @@ publishDate: '2025-12-29T01:49:05.196658Z'
 publication_types:
 - article-journal
 publication: '*J Inherit Metab Dis*'
-doi: 10.1002/jimd.12623
+
+hugoblox:
+  ids:
+    doi: 10.1002/jimd.12623
 tags:
 - Amino Acid Metabolism
 - Inborn Errors

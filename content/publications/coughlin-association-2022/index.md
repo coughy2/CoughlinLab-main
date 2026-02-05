@@ -31,7 +31,10 @@ publishDate: '2025-12-29T01:49:05.211271Z'
 publication_types:
 - article-journal
 publication: '*Neurology*'
-doi: 10.1212/WNL.0000000000201222
+
+hugoblox:
+  ids:
+    doi: 10.1212/WNL.0000000000201222
 abstract: 'BACKGROUND AND OBJECTIVES: Pyridoxine-dependent epilepsy (PDE-ALDH7A1)
   is a developmental epileptic encephalopathy characterized by seizure improvement
   after pyridoxine supplementation. Adjunct lysine reduction therapies (LRTs) reduce

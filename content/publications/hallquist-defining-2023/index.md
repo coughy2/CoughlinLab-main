@@ -18,7 +18,7 @@ publishDate: '2025-12-29T01:49:05.188110Z'
 publication_types:
 - article-journal
 publication: '*Eur J Hum Genet*'
-doi: 10.1038/s41431-023-01401-0
+
 abstract: The Clinical Genome Resource (ClinGen) Consent and Disclosure Recommendation
   (CADRe) framework proposes that key components of informed consent for genetic testing
   can be covered with a targeted discussion for many conditions rather than a time-intensive
@@ -41,6 +41,11 @@ abstract: The Clinical Genome Resource (ClinGen) Consent and Disclosure Recommen
   consistency to the clinical practice of both genetics and non-genetics providers,
   meeting patients' informational needs, tailoring consent for psychosocial support,
   and in future guideline development.
+
+hugoblox:
+  ids:
+    doi: 10.1038/s41431-023-01401-0
+
 tags:
 - Counselors
 - Disclosure

@@ -9,7 +9,10 @@ publishDate: '2025-12-29T01:49:05.203465Z'
 publication_types:
 - article-journal
 publication: '*Ann Child Neurol Soc*'
-doi: 10.1002/cns3.20016
+
+hugoblox:
+  ids:
+    doi: 10.1002/cns3.20016
 abstract: Pyridoxine-dependent epilepsy (PDE) was historically defined by a dramatic
   clinical response to a trial of pyridoxine and the re-emergence of seizures after
   withdrawal of pyridoxine. Research conducted over the last seven decades has revealed

@@ -9,7 +9,7 @@ tags:
   - ELSI
   - Precision medicine
 featured: true
-summary: "Our research focused on the intersection of genetics and ethics and treatment for rare disease"
+summary: "Our research focuses on the intersection of genetics and ethics and equitable access to treatment for rare diseases"
 
 design:
   # Section spacing
@@ -49,7 +49,7 @@ sections:
       items:
         - title: 'CADRe Framework'
           text: |
-            The Consent & Disclosure Recommendations [(CADRe)](https://clinicalgenome.org/tools/cadre/) workgroup was part of the ClinGen resource. Our plubications focused on development of an ethical framework noted below: 
+            The Consent & Disclosure Recommendations [(CADRe)](https://clinicalgenome.org/tools/cadre/) workgroup was part of the ClinGen resource. Our research focused on development of an ethical framework with an emphasis on consent and diclosure by non-genetic providers.  Some of our publications are noted below: 
           image: cadre.jpg
           feature_icon: emoji/dna
           features:
@@ -63,11 +63,11 @@ sections:
 
         - title: 'Rare Disease'
           text: 
-            Similar to our work on informed concenst and Our non-genetic based ethics reserach is focused 
-          image: 6OP.jpg
+            Our rare disease work foucses on equitable access to treatment.  This ranges from ensuring that all children have oppritunities for medical treatment regardless of genetic diagnosis or access to high cost therapeutics.  Some of our publications on ethical issues in the treatment of rare diseases are noted below  
+          image: rare.jpg
           feature_icon: emoji/pill
           features:
-            - 'Treatment of Fetal Cystic Fibrosis [[Link](https://pubmed.ncbi.nlm.nih.gov/40965475/)]'
+            - 'Treatment of fetal cystic fibrosis [[Link](https://pubmed.ncbi.nlm.nih.gov/40965475/)]'
             - 'Pediatric metabolic bariatric surgery [[Link](https://pubmed.ncbi.nlm.nih.gov/33191162/)]'
             - 'Relationships with industry partners [[Link](https://pubmed.ncbi.nlm.nih.gov/31337884/)]'
           button:
