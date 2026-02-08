@@ -63,7 +63,7 @@ sections:
 
         - title: 'Nonketotic hyperglycinemia'
           text: |
-            We collaborate with Professor Johan Van Hove's [laboratory](https://medschool.cuanschutz.edu/pediatrics/sections/genetics-and-metabolism/research/nonketotic-hyperglycinemia-(nkh)-research-lab) to study Nonketotic Hyperglycinemia (NKH). We initially charecterized mutations in the genes **GLDC** and **AMT** that cause classic NKH, and described biomarkers (imaging, genetic, and biochemical based) that may aid prognosis. We continue to collaborte with the Van Hove lab to understand the impact of vitamin B<sub>6</sub> and evlaute novel therapies.  
+            We collaborate with Professor Johan Van Hove's [laboratory](https://medschool.cuanschutz.edu/pediatrics/sections/genetics-and-metabolism/research/nonketotic-hyperglycinemia-(nkh)-research-lab) to study Nonketotic Hyperglycinemia (NKH). We initially charecterized mutations in the genes **GLDC** and **AMT** that cause classic NKH, and described biomarkers (imaging, genetic, and biochemical based) that may aid prognosis. We continue to collaborte with the Van Hove lab to understand the impact of vitamin B<sub>6</sub> and evaluate novel therapies.  
           image: nkh.jpg
           feature_icon: emoji/dna
           features:

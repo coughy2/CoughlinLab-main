@@ -29,7 +29,7 @@ image:
 
 links:
   - name: Listen to the podcast
-    url: https://open.spotify.com/episode/11lxymNJjcod6BlsSvRVTS
+    url: https://open.spotify.com/episode/3fik5ttC3sN9FTHqR8m5D4
     icon: hero/microphone
   
 
