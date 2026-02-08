@@ -6,18 +6,12 @@ authors:
 - admin
 - Michael A Swanson
 - Johan L K Van Hove
-author_notes:
-- 
-- 
-date: "2026-01-01"
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: 
+date: '2026-01-01'
+publishDate: '2026-01-01T01:49:05.162146Z'
+publication_types:
 - article-journal
 
-# Publication name and optional abbreviated publication name.
 publication: "J Inherit Metab Dis. Jan;49(1):e70138"
 publication_short: ""
 
