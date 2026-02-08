@@ -14,7 +14,8 @@ date: "2026-01-01"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: 
+- article-journal
 
 # Publication name and optional abbreviated publication name.
 publication: "J Inherit Metab Dis. Jan;49(1):e70138"
