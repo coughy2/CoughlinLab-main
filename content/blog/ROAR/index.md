@@ -1,6 +1,6 @@
 ---
 title: ROAR Consortium Funded! 
-summary: The ROAR consortium joins the RDCRN
+summary: The ROAR consortium joins the RDCRN to study organic acidurias such as GA1
 date: 2025-09-25
 authors:
   - admin
