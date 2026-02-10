@@ -184,18 +184,22 @@ sections:
       address:
         lines:
           - University of Colorado Anschutz 
+          - 12800 E. 17th Ave
           - RC1 North, P18-3401A
           - Mail stop 8313
-          - Aurora, Colorado 80045
+          - Aurora, CO 80045
       Univerity of Colorado Anschutz:
-      email: 'coughlinlab@gmail.com'
-      phone: '+1 (303) 724.5319'
+      email: 'coughlin.lab@gmail.com'
+      phone: '+1 (303) 724.3814'
       social:
         - icon: brands/facebook
           url: https://www.facebook.com/coughlin.pde.lab/
         - icon: brands/linkedin
           url: https://www.linkedin.com/in/curtiscoughlinii/
       map_url: 'https://maps.app.goo.gl/qEkYNTcJFVFUEwco9'
+      show_form: false
     design:
-      css_class: "dark bg-gray-900 text-white"
+      css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
+      spacing:
+        padding: ["5rem", 0, "5rem", 0]
 ---

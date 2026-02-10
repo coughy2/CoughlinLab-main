@@ -14,7 +14,10 @@ publishDate: '2025-12-29T01:49:05.220595Z'
 publication_types:
 - article-journal
 publication: '*Neurology*'
-doi: 10.1212/WNL.0000000000200711
+
+hugoblox:
+  ids:
+    doi: 10.1212/WNL.0000000000200711
 abstract: We describe a neonate and a 14-month-old child presenting with seizures
   that were not (completely) controlled with antiepileptic medications. There were
   no signs of infection, and electrolytes and neuroimaging were normal. In the neonate,

@@ -10,7 +10,7 @@ address:
   postcode: 
   country: United States
 
-summary: This ACMG webinar focuss on treatable metabolic disorders 
+summary: This ACMG webinar focuses on treatable metabolic disorders 
 abstract: 'This session explores the essential functions of vitamins, particularly B vitamins, as metabolic cofactors and their significance in maintaining health. Through a series of case-based examples, we will examine how vitamin deficiencies can mimic inherited metabolic disorders (IMDs), and how supratherapeutic dosing of select B vitamins can be employed as targeted therapies.'
 
 date: '2025-11-24T16:00:00Z'

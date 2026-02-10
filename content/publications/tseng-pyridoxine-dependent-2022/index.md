@@ -17,7 +17,10 @@ publishDate: '2025-12-29T01:49:05.643153Z'
 publication_types:
 - article-journal
 publication: '*Mol Genet Metab Rep*'
-doi: 10.1016/j.ymgmr.2022.100853
+hugoblox:
+  ids:
+    doi: 10.1016/j.ymgmr.2022.100853
+    
 abstract: "BACKGROUND: Little is known about pyridoxine-dependent epilepsy due to
   α-aminoadipic semialdehyde dehydrogenase deficiency (PDE-ALDH7A1) in adulthood,
   as the genetic basis of the disorder has only been elucidated 15 years ago. This

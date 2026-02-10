@@ -25,7 +25,10 @@ publishDate: '2025-12-29T01:49:05.229089Z'
 publication_types:
 - article-journal
 publication: '*Mol Genet Metab*'
-doi: 10.1016/j.ymgme.2022.02.005
+
+hugoblox:
+  ids:
+    doi: 10.1016/j.ymgme.2022.02.005
 abstract: 'BACKGROUND: Seventy-five percent of patients with pyridoxine-dependent
   epilepsy due to α-aminoadipic semialdehyde dehydrogenase deficiency (PDE-ALDH7A1)
   suffer intellectual developmental disability despite pyridoxine treatment. Adjunct
