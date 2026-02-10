@@ -1,6 +1,7 @@
 ---
 title: Ethics and GC Practice 
 summary: In-person writing workshop in Ascona, Switzerland
+date: 2025-04-15
 authors:
   - admin
 tags:
