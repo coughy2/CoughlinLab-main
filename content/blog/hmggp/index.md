@@ -5,7 +5,7 @@ date: 2025-10-26
 authors:
   - admin
 tags:
-  - Second Brain
+  - Disease Mechanism
   - Markdown
 image:
   caption: ''
