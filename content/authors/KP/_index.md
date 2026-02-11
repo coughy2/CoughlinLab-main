@@ -36,7 +36,7 @@ education:
 # Social/Academic Networking
 social:
   - icon: hero/envelope
-    link: 'mailto:coughlin.lab@gmail.com'
+    link: 'mailto:Coughlin.Lab@CUAnschutz.edu'
   - icon: brands/facebook
     link: https://www.facebook.com/coughlin.pde.lab/
 

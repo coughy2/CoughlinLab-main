@@ -140,7 +140,7 @@ sections:
           - Mail stop 8313
           - Aurora, CO 80045
       Univerity of Colorado Anschutz:
-      email: 'coughlin.lab@gmail.com'
+      email: 'Coughlin.Lab@CUAnschutz.edu'
       phone: '+1 (303) 724.3814'
       social:
         - icon: brands/facebook

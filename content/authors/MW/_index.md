@@ -34,7 +34,7 @@ education:
 # Social/Academic Networking
 social:
   - icon: hero/envelope
-    link: 'mailto:coughlin.lab@gmail.com'
+    link: 'mailto:Coughlin.Lab@CUAnschutz.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
