@@ -15,7 +15,7 @@ sections:
       title: |
         The Coughlin Laboratory
       text: |
-        We focus on neurometabolic disorders. We aim to understand biological and disease mechansims, develop novel therapies, and help implement proven treatments into clinical care. We believe in patient-centered research and combine rigorous scientific methods with patient engagement approaches.
+        We focus on neurometabolic disorders. We aim to understand disease mechansims, develop novel therapies, and help implement proven treatments into clinical care. We believe in patient-centered research and combine rigorous scientific methods with patient engagement approaches.
       primary_action:
         text: Virtual Lab Visit
         url: '/facilities'
