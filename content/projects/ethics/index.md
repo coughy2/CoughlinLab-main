@@ -74,6 +74,22 @@ sections:
             text: 'View our publications'
             url: '/publications'
 
+        - title: 'Academic Musings'
+          text: |
+            Books and book chapters provide an avenue to explore ethical ideas in a deeper manner. My book chapters are similar to the rest of my work with a foucs on either genetics or reserach in general.  I have written ethics-focused chapters in the textbooks noted below:
+          image: books.jpg
+          feature_icon: emoji/notebook
+          features:
+            - '[The Penn Center Guide to Bioethics](https://www.google.com/books/edition/The_Penn_Center_Guide_to_Bioethics/hydXVrEWY-UC?hl=en&gbpv=0)'
+            - '[Ethical Dilemmas in Genetics and Genetic Counesling](https://www.google.com/books/edition/Ethical_Dilemmas_in_Genetics_and_Genetic/ihJVBAAAQBAJ?hl=en&gbpv=0&kptab=overview)'
+            - '[Handbook of Research Methods in Health Psychology](https://www.google.com/books/edition/Handbook_of_Research_Methods_in_Health_P/fPQCEAAAQBAJ?hl=en&gbpv=0)'
+            - '[A Guide to Genetic Counseling, 3rd edition](https://www.google.com/books/edition/A_Guide_to_Genetic_Counseling/4pUrEQAAQBAJ?hl=en&gbpv=0)'
+          button:
+            text: 'View our publications'
+            url: '/publications'
+
+
+
     design:
       css_class: "bg-white dark:bg-gray-800"
 

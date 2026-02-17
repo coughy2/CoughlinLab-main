@@ -15,7 +15,7 @@ date: '2025-01-01'
 publishDate: '2025-12-29T01:49:05.162146Z'
 publication_types:
 - article-journal
-publication: 'Mol Genet Metab. 2025 Jan;144(1):109002'
+publication: 'Mol Genet Metab. Jan;144(1):109002'
 
 hugoblox:
   ids:

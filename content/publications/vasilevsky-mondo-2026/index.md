@@ -26,7 +26,7 @@ date: '2026-02-17'
 publishDate: '2026-02-17T01:49:05.162146Z'
 publication_types:
 - article-journal
-publication: 'Database (Oxford). 2026 Jan 15:2026:baag004'
+publication: 'Database (Oxford). Jan 15:2026:baag004'
 
 hugoblox:
   ids:
