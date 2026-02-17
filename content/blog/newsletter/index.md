@@ -6,15 +6,13 @@ date: 2026-01-01
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 
 authors:
   - Kristie Pauly
 
 tags:
   - Newsletter
-  - Hugo Blox
-  - Markdown
 
 content_meta:
   trending: false
