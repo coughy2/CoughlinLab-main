@@ -76,7 +76,7 @@ sections:
 
         - title: 'Academic Musings'
           text: |
-            Books and book chapters provide an avenue to explore ethical ideas in a deeper manner. My book chapters are similar to the rest of my work with a foucs on either genetics or reserach in general.  I have written ethics-focused chapters in the textbooks noted below:
+            Books and book chapters provide an avenue to explore ethical ideas in a deeper manner. These book chapters are similar to the rest of my work with a foucs on either genetics and translational research.  I have written chapters in the textbooks noted below:
           image: books.jpg
           feature_icon: emoji/notebook
           features:
