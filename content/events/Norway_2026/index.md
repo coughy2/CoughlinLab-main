@@ -28,6 +28,10 @@ image:
       '
   focal_point: Center
   
+links:
+  - name: Watch this lecture on youtube
+    url: https://www.youtube.com/watch?v=umeXn8e36FM
+    icon: hero/video-camera
 
 projects:
   - PDE-ALDH7A1
@@ -44,3 +48,6 @@ Dr. Coughlin provided a recorded (virtual) talk on PDE-ALDH7A1.  Theconference i
 •	Cognitive and neuropsychiatric difficulties – Mia Tuft
 •	Language and alternative, supplementary communication – Silje Systad
 •	Legal rights – Atle Larsen
+
+
+{{< youtube umeXn8e36FM >}}
