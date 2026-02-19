@@ -49,13 +49,13 @@ sections:
       items:
         - title: 'Clinical Research'
           text: |
-            We collaborate with international PDE-ALDH7A1 experts including Professors Clara van Karnebeek, Sidney Gospe Jr, and members of the Interntional PDE Consortium. Our work directly led to lysine-restricted diet and triple therapy (vitamin B<sub>6</sub>, lysine-restricted diet, arginine supplementation) being adopated as standard of care treatment. 
+            We collaborate with PDE-ALDH7A1 experts including Professors Clara van Karnebeek, Sidney Gospe Jr, and members of the International PDE Consortium. Our work directly led to lysine-restricted diet and triple therapy (vitamin B<sub>6</sub>, lysine-restricted diet, arginine supplementation) being adopated as standard of care treatment. 
           image: Cohort study.jpg
           feature_icon: emoji/hospital
           features:
             - 'First clinical studies using lysine-reduction therapies (LRT)'
             - 'Demonstration that early treatment with LRT improves IQ' 
-            - 'Consensus guidlines for diagnosis and treatment' 
+            - 'Consensus guidelines for diagnosis and treatment' 
             - 'New clinical insights from the International PDE Registry'
           button:
             text: 'Join our natural history study'
@@ -63,11 +63,11 @@ sections:
 
         - title: 'Basic Research'
           text: |
-            We aim to understand the underlying disease mechansim of PDE-ALDH7A1 with a focus on biochemistry. This work led us to identify a new metabolite within lysine metabolism (6-oxo-pipecolate) that we later applied to newborn screening. Our current research focuses on impact of global metabolic dysfunction and the impact of &alpha;-AASA dehydrogenase deficiency. This work is funded by NIH/NICHD and the CurePDE Foundation. 
+            We aim to understand underlying disease mechansim of PDE-ALDH7A1 with a focus on biochemistry. This work led us to identify a new metabolite within lysine metabolism (6-oxo-pipecolate) that we later applied to newborn screening. Our current research focuses on global metabolic dysfunction and the impact of &alpha;-AASA dehydrogenase deficiency. This work is funded by NIH/NICHD and the CurePDE Foundation. 
           image: 6OP.jpg
           feature_icon: emoji/dna
           features:
-            - 'Human samples to identify and evalute novel biomakers'
+            - 'Human samples to identify and evaluate novel biomakers'
             - 'Animal models to elucidate the impact of metabolic dysfunction'
             - 'Functional studies focused on unique genetic variants'
             - 'Translation of research results to clinical partners'
@@ -77,11 +77,11 @@ sections:
 
         - title: 'Novel Genetic Therapies'
           text: |
-            Although lysine reduction therapies improve clinical outcomes, nutritional based treatments are diffiuclt and associted with a negative impact on quality of life. We collaborate with the CHARLIE consoritum, other scientists, biotech, and pharmaceutical partners to evalute genetic based therapies for PDE-ALDH7A1. This includes several approaches to substrate reduction therapy. This work is funded by philanthropic donations and the CurePDE Foundation. 
+            Although lysine reduction therapies improve clinical outcomes, nutritional based treatments are difficult and associted with a negative impact on quality of life. We collaborate with the CHARLIE consoritum, other scientists, and industry partners to evalute genetic based therapies for PDE-ALDH7A1. This includes several approaches to substrate reduction therapy. This work is funded by philanthropic donations and the CurePDE Foundation. 
           image: curepde-lab.jpg
           feature_icon: emoji/pill
           features:
-            - 'Zebrafish and mouse models allow us to evalute new treatments'
+            - 'Zebrafish and mouse models allow us to evaluate new treatments'
             - 'Leveraging disease expertise to ensure meaningful outcomes' 
             - 'Enagement with stakeholders to ensure patinet-first approaches'
             - 'Translational approches to move quickly from lab to the clinic'
@@ -98,28 +98,29 @@ sections:
       text: We are a translational research laboratory. We combine rigorous scientic methods with patient engagement approaches. 
       items:
         - name: 'Natural History Studies'
-          description: 'Clincical outcomes help us prioritze reserch goals and provide critical control data in clincial trials'
+          description: 'Clinical outcomes help us prioritize research goals and provide critical control data in clincial trials'
           icon: emoji/clipboard
           
         - name: 'Record of Collaboration'
-          description: 'Collaboration with clinican-scientists advance research goals and speed translation of results to the bedside'
+          description: 'Collaboration with clinician-scientists advance research goals and speed translation of results to the bedside'
           icon: emoji/hospital
           
-        - name: 'Enagement Stratagies'
-          description: 'Partnerships with families help enusre our reserach goals are patient-centered and clinically meaningful'
+        - name: 'Engagement Stratagies'
+          description: 'Partnerships with families help ensure our research goals are patient-centered and clinically meaningful'
           icon: emoji/family_man_man_girl_boy
           
         - name: 'Model Systems for Rare Disease'
-          description: 'Animal (zebrafish, mice) and human model systems to interrogate mechansim and novel treatments'
+          description: 'Animal and human model systems are used to interrogate disease mechansim and novel treatments'
           icon: emoji/mouse2
           
         - name: 'Omics Expertise'
-          description: 'Exerpience in  genonmics, metabolomics, and proteomics with a focus on disease mechanism'
+          description: 'Experience in  genomics, metabolomics, and proteomics with a focus on disease mechanism'
           icon: emoji/dna
           
         - name: 'Spectroscopy Laboratory'
-          description: 'Analytical instrumententaion with a focus on quantiative mass spectrometry approaches'
+          description: 'Analytical instrumentation with a focus on quantitative mass spectrometry approaches'
           icon: emoji/microscope
+        
     design:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
 

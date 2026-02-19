@@ -9,7 +9,7 @@ tags:
   - ELSI
   - Precision medicine
 featured: true
-summary: "Our research focuses on the intersection of genetics and ethics and equitable access to treatment for rare diseases"
+summary: "Our research focuses on the intersection of genetics & ethics and equitable access to treatment for rare diseases"
 
 design:
   # Section spacing
@@ -22,7 +22,7 @@ sections:
       title: |
         **Ethics and Genetics**
       text: |
-        Our ethics research is primarly focused on the ethical, legal, and social implications (ELSI) of genetics and genomics. Dr. Coughlin is a certified health ethics consultant (HEC-C) and also serves as a clinical bioethics. 
+        Our ethics research is primarily focused on the ethical, legal, and social implications (ELSI) of genetics and genomics. Dr. Coughlin is a certified health ethics consultant (HEC-C) and serves as a clinical bioethics. 
       primary_action:
         text: Contact us
         url: '#contact'
@@ -49,7 +49,7 @@ sections:
       items:
         - title: 'CADRe Framework'
           text: |
-            The Consent & Disclosure Recommendations [(CADRe)](https://clinicalgenome.org/tools/cadre/) workgroup was part of the ClinGen resource. Our research focused on development of an ethical framework with an emphasis on consent and diclosure by non-genetic providers.  Some of our publications are noted below: 
+            The Consent & Disclosure Recommendations [(CADRe)](https://clinicalgenome.org/tools/cadre/) workgroup was part of the ClinGen resource. Our research focused on development of an ethical framework with an emphasis on consent and diclosure by non-genetic providers. Some of our publications are noted below: 
           image: cadre.jpg
           feature_icon: emoji/dna
           features:
@@ -63,7 +63,7 @@ sections:
 
         - title: 'Rare Disease'
           text: 
-            Our rare disease work foucses on equitable access to treatment.  This ranges from ensuring that all children have oppritunities for medical treatment regardless of genetic diagnosis or access to high cost therapeutics.  Some of our publications on ethical issues in the treatment of rare diseases are noted below  
+            Our rare disease work focuses on equitable access to treatment. This ranges from ensuring that all children have oppritunities for medical treatment regardless of genetic diagnosis and equitable access to high cost therapeutics. Some of our publications on ethical issues in the treatment of rare diseases are noted below  
           image: rare.jpg
           feature_icon: emoji/pill
           features:
@@ -76,7 +76,7 @@ sections:
 
         - title: 'Academic Musings'
           text: |
-            Books and book chapters provide an avenue to explore ethical ideas in a deeper manner. These book chapters are similar to the rest of my work with a foucs on genetics and translational research.  I have written chapters in the textbooks noted below:
+            Book chapters provide an avenue to explore ethical ideas in a deeper manner than traditional peer review papers. These book chapters are similar to the rest of my work with an emphasis on genetics and translational research.  I have written chapters in the textbooks noted below:
           image: books.jpg
           feature_icon: emoji/notebook
           features:

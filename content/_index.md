@@ -75,10 +75,10 @@ sections:
     content:
       title: Research Focus Areas
       subtitle: " "
-      text: As a translational research lab, we aim to make real world impact by moving through the various stages of research including basic science, preclincial studies, and clinical application. 
+      text: We aim to make real world impact by moving through the various stages of research including basic science, preclinical studies, and clinical application. 
       items:
         - name: Rare Disease Studies 
-          description: Natural history studies enhance our understanding of disease, set research priorities, and provide historical data for clincial trials  
+          description: Natural history studies enhance our understanding of disease, set research priorities, and provide historical data for clinical trials  
           icon: emoji/hospital
           gradient: from-green-400 to-emerald-600 
           status: enrolling
@@ -93,7 +93,7 @@ sections:
             url: /research/natural-history
 
         - name: Disease Mechanisms
-          description: Patient samples and model systems help us study the underlying disease cause. Biochemical studies identify biomakers for diagnosis & treatment
+          description: Patient samples and model systems are used to study the underlying disease. Biochemical studies identify biomakers for diagnosis & treatment
           icon: emoji/dna
           gradient: from-purple-400 to-pink-600
           status: active
@@ -109,7 +109,7 @@ sections:
             url: /projects
             
         - name: Therapeutic Advances 
-          description: Preclinical models are used to study genetic based treatments. We partner with scientists and pharma companies also focused on rare diseases
+          description: Preclinical models allow us to study genetic based treatments. We partner with scientists and industry partners also focused on rare diseases
           icon: emoji/pill
           gradient: from-blue-400 to-indigo-600
           status: active
@@ -254,7 +254,7 @@ sections:
     content:
       title: Collaborators & Partners
       subtitle: Leading the way together
-      text: We work with family advocacy groups, interntional consoritums, top universities, research institutes, and industry leaders to advance scientific discovery
+      text: We work with family advocacy groups, international consortiums, research institutes, clincian scientists, and industry leaders to advance scientific discoveries
       logos:
         - name: Charlie
           image: partners/charlie-logo.png

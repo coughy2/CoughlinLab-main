@@ -48,7 +48,7 @@ sections:
       items:
         - title: 'Clinical Research'
           text: |
-            Newborn screening (NBS) dramatically changed the natural history of GA1,  although many patients continue to have devestating symptomes. We aim to understand the post NBS natural history of GA1 including the number of patients who have a basal ganglia injury and non-strital (i.e. non metabolic stroke) symptoms. This data is critial in developing future treatments. This work is funded by NIH (ROAR consoritum) and Alnylam Pharmaceuticals. We also work closely with patient and advocay groups to accomplish these goals. 
+            Newborn screening (NBS) dramatically changed the natural history of GA1, although many patients continue to have devestating symptomes. We aim to understand the post NBS natural history of GA1 including the number of patients who have a basal ganglia injury and non-strital symptoms. This data is critial in developing future treatments. This work is funded by NIH (ROAR consoritum) and Alnylam Pharmaceuticals. We also work closely with patient and advocay groups to accomplish these goals. 
           image: OAA_mtg.jpg
           feature_icon: emoji/hospital
           features:
@@ -62,12 +62,12 @@ sections:
 
         - title: 'Basic Research'
           text: |
-            We focus on the underlying disease mechansim of GA1 and how abnormal metabolism impacts disease phenotype. Our reserach utilizes a zebrafish model which has several advantages to studying this glial cell disorder. We also collaborate with scientist to evalute novel genetic and cellular therapies for GA1 The  This work is currently funded internally. 
+            We focus on underlying disease mechansim of GA1 and how abnormal metabolism impacts disease phenotype. Our research utilizes a zebrafish model which has several advantages to studying this glial cell disorder. We also collaborate with scientist to evalute novel genetic and cellular therapies for GA1. This work is currently funded internally. 
           image: zebrafish.jpg
           feature_icon: emoji/dna
           features:
             - 'Animal models to study metabolic dysfunction'
-            - 'Biomakers associated with clinical outcome'
+            - 'Biomarkers associated with clinical outcomes'
             - 'Evaluation of novel treatments such as subtrate reduction'
             - 'Translation of research results to clinical partners'
           button:
@@ -76,7 +76,7 @@ sections:
 
         - title: 'Stephen I. Goodman, MD'
           text: |
-            Professor Goodman was a leader in the field of inborn errors of metabolism and founding member of the Society of Inherited Metabolic Disorders. Over his distingused 55 year carreer, his primary focus was glutaric aciduria type 1 and 2. Among other accomplishements, he described the first patient with GA1, identified the gene *GCDH*, and described the enzyme deficiency in GA1. He developed a mouse model that still used by several laboratories today to study GA1. He was invovled in many clinical studies describing the features of patients with GA1 and the initial guidelines for management. 
+            Professor Goodman was a leader in the field of inborn errors of metabolism and founding member of the Society of Inherited Metabolic Disorders (SIMD). Over his distingused 55 year carreer, his primary research focus was glutaric aciduria type 1 and 2. Among other accomplishements, he described the first patient with GA1, identified the gene *GCDH*, and described the enzyme deficiency in GA1. He developed a mouse model that is still used by several scientist to study GA1. He was invovled in many clinical studies describing the features of patients and development of the initial guidelines for management. 
           image: goodman.jpg
           feature_icon: emoji/pill
           features:
@@ -94,30 +94,30 @@ sections:
     id: equipment
     content:
       title: Coughlin Research Laboratory Overview 
-      text: We are a translational reserch laboratory focused on patient-centered reserach.  We combine rigours scientic methods with patient engagement approaches. 
+      text: We are a translational research laboratory. We combine rigorous scientic methods with patient engagement approaches. 
       items:
         - name: 'Natural History Studies'
-          description: 'Clincical outcomes help prioritze reserch goals and provide critical control data in clincial trials'
+          description: 'Clinical outcomes help us prioritize research goals and provide critical control data in clincial trials'
           icon: emoji/clipboard
           
         - name: 'Record of Collaboration'
-          description: 'Collaboration with clinican and scientist advance research and translation of results to the bedside'
+          description: 'Collaboration with clinician-scientists advance research goals and speed translation of results to the bedside'
           icon: emoji/hospital
           
-        - name: 'Enagement Stratagies'
-          description: 'Partnerships with patients and families to enusre our reserach goals are patient-centered'
+        - name: 'Engagement Stratagies'
+          description: 'Partnerships with families help ensure our research goals are patient-centered and clinically meaningful'
           icon: emoji/family_man_man_girl_boy
           
         - name: 'Model Systems for Rare Disease'
-          description: 'Animal (zebrafish, mice) and human model systems to interrogate mechansim and novel treatments'
+          description: 'Animal and human model systems are used to interrogate disease mechansim and novel treatments'
           icon: emoji/mouse2
           
         - name: 'Omics Expertise'
-          description: 'Exerpience in  genonmics, metaoblimics, proteomics with a focus on disease mechanism'
+          description: 'Experience in  genomics, metabolomics, and proteomics with a focus on disease mechanism'
           icon: emoji/dna
           
         - name: 'Spectroscopy Laboratory'
-          description: 'Analytical instrumententaion with a focus on quantiative mass spectrometry approaches'
+          description: 'Analytical instrumentation with a focus on quantitative mass spectrometry approaches'
           icon: emoji/microscope
     design:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"

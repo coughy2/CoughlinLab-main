@@ -80,7 +80,7 @@ sections:
       items:
         - title: 'Spectroscopy Equipment'
           text: |
-            Many of our research questions foucs on the association between the abnormal metabolism and disaese phenotype. This requires accurate measurement of several biomakers through approaches such as liquid chromatography tandem mass spectrometry (LC-MS/MS). Our spectroscopy equipment is the heart and soul of our laboratory. This work has led to the identificaition and clinical validation of novel biomakers, and demonstration that treatment can improve the abnormal biochemistry in various model systems.
+            Many of our research questions focus on the association between abnormal metabolism and disease phenotype. This requires accurate measurement of several biomakers through approaches such as liquid chromatography tandem mass spectrometry (LC-MS/MS). Our spectroscopy equipment is the heart and soul of our laboratory. This work has led to the identification and clinical validation of novel biomakers, and demonstration that treatment can improve the abnormal biochemistry in various model systems.
           image: kristie_ms.jpg
           feature_icon: hero/beaker
           features:
@@ -94,7 +94,7 @@ sections:
 
         - title: 'Disease Model Systems'
           text: |
-            Our reserach has primarly foucsed on two rare diseases: pyridoxine-dependent epilepsy (PDE-ALDH7A1) and glutaric aciduria type 1 (GA1). To study PDE-ALDH7A1 we utize both e.coli-based expression system to evalute the impact of genetic variants and animal models to answer complex questions about diease mechanism.   
+            Our research has primarily focused on two rare diseases: pyridoxine-dependent epilepsy (PDE-ALDH7A1) and glutaric aciduria type 1 (GA1). To study PDE-ALDH7A1 we utize an e.coli-based expression system to evalute the impact of genetic variants and several animal models to answer complex questions about diease mechanism.   
           image: nicole_bench.jpg
           feature_icon: hero/beaker
           features:
@@ -108,7 +108,7 @@ sections:
 
         - title: 'Patient Engagement'
           text: |
-            Patient engagement is as important to our reserach as any laboratory equipment or model system.  We are greatful the support from various patient organizations and familys over the last 10+ years. In fact our initial PDE-ALDH7A1 newborn screening study was funded through a 5k in 2014. In addition to the financial support, we are grateful that familys share their storied with us are we consider each one an extended member of our team. 
+            Patient engagement is as important to our reserach as any laboratory equipment or model system.  We are greatful for the support of various patient organizations and families. Our initial PDE-ALDH7A1 newborn screening study was funded through a "Fighting for PDE" in 2014. In addition to the financial support, we are grateful that families share their stories with us and help us design research goals. 
           image: Jen_PDE.jpg
           feature_icon: hero/user-group
           features:
@@ -149,28 +149,29 @@ sections:
       text: We are a translational research laboratory. We combine rigorous scientic methods with patient engagement approaches. 
       items:
         - name: 'Natural History Studies'
-          description: 'Clincical outcomes help us prioritze reserch goals and provide critical control data in clincial trials'
+          description: 'Clinical outcomes help us prioritize research goals and provide critical control data in clincial trials'
           icon: emoji/clipboard
           
         - name: 'Record of Collaboration'
-          description: 'Collaboration with clinican-scientists advance research goals and speed translation of results to the bedside'
+          description: 'Collaboration with clinician-scientists advance research goals and speed translation of results to the bedside'
           icon: emoji/hospital
           
-        - name: 'Enagement Stratagies'
-          description: 'Partnerships with families help enusre our reserach goals are patient-centered and clinically meaningful'
+        - name: 'Engagement Stratagies'
+          description: 'Partnerships with families help ensure our research goals are patient-centered and clinically meaningful'
           icon: emoji/family_man_man_girl_boy
           
         - name: 'Model Systems for Rare Disease'
-          description: 'Animal (zebrafish, mice) and human model systems to interrogate mechansim and novel treatments'
+          description: 'Animal and human model systems are used to interrogate disease mechansim and novel treatments'
           icon: emoji/mouse2
           
         - name: 'Omics Expertise'
-          description: 'Exerpience in  genonmics, metabolomics, and proteomics with a focus on disease mechanism'
+          description: 'Experience in  genomics, metabolomics, and proteomics with a focus on disease mechanism'
           icon: emoji/dna
           
         - name: 'Spectroscopy Laboratory'
-          description: 'Analytical instrumententaion with a focus on quantiative mass spectrometry approaches'
+          description: 'Analytical instrumentation with a focus on quantitative mass spectrometry approaches'
           icon: emoji/microscope
+
     design:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
 

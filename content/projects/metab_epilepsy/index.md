@@ -49,13 +49,13 @@ sections:
       items:
         - title: 'B<sub>6</sub> responsive seizures'
           text: |
-            Our primary reseearch is focused on PDE-ALDH7A1 defciency which is only one of the vitamin B<sub>6</sub> responsive seizure disorders. In addition to the known genetic B<sub>6</sub> responsive disorders, a number of patients with idiopathic seizures respond to vitmain B<sub>6</sub> supplementation. We are focused on both identification of novel genetic causes and understanding general mechanism of these disorders.
+            Our primary research is focused on PDE-ALDH7A1 defciency which is only one of the vitamin B<sub>6</sub> responsive seizure disorders. In addition to the known genetic B<sub>6</sub> responsive disorders, a number of patients with idiopathic seizures respond to vitmain B<sub>6</sub> supplementation. We are focused on both identification of novel genetic causes and understanding general mechanism of these disorders.
           image: b6.jpg
           feature_icon: emoji/dna
           features:
-            - 'Genome study to identify novel biomakers [[Enroll](#contact)]'
-            - 'Tissue specific LC-MS/MS quantification of Bsub>6</sub> vitamers' 
-            - 'Disesase specific LC-MS/MS quantification of Bsub>6</sub> vitamers' 
+            - 'Genomic studies to identify novel genes [[Enroll](#contact)]'
+            - 'Tissue specific LC-MS/MS quantification of B<sub>6</sub> vitamers' 
+            - 'Disesase specific LC-MS/MS quantification of B<sub>6</sub> vitamers' 
             - 'The role of vitamin B<sub>6</sub> in idopathic seizure disorders'
           button:
             text: 'View all our publications'
@@ -63,27 +63,27 @@ sections:
 
         - title: 'Nonketotic hyperglycinemia'
           text: |
-            We collaborate with Professor Johan Van Hove's [laboratory](https://medschool.cuanschutz.edu/pediatrics/sections/genetics-and-metabolism/research/nonketotic-hyperglycinemia-(nkh)-research-lab) to study Nonketotic Hyperglycinemia (NKH). We initially charecterized mutations in the genes **GLDC** and **AMT** that cause classic NKH, and described biomarkers (imaging, genetic, and biochemical based) that may aid prognosis. We continue to collaborte with the Van Hove lab to understand the impact of vitamin B<sub>6</sub> and evaluate novel therapies.  
+            We collaborate with [Professor Johan Van Hove's laboratory](https://medschool.cuanschutz.edu/pediatrics/sections/genetics-and-metabolism/research/nonketotic-hyperglycinemia-(nkh)-research-lab) to study Nonketotic Hyperglycinemia (NKH). We initially characterized mutations in the genes *GLDC* and *AMT* that cause classic NKH, and described biomarkers (imaging, genetic, and metabolities) that may aid prognosis. We continue to collaborate with the Van Hove lab to understand the impact of vitamin B<sub>6</sub> and evaluate novel therapies.  
           image: nkh.jpg
           feature_icon: emoji/dna
           features:
             - 'Genetic basis of classic NKH [[Link](https://pubmed.ncbi.nlm.nih.gov/27362913/)]'
-            - 'Neuodevelomental outcomes in NKH [[Link](https://pubmed.ncbi.nlm.nih.gov/26749113/)]'
+            - 'Neurodevelopmental outcomes in NKH [[Link](https://pubmed.ncbi.nlm.nih.gov/26749113/)]'
             - 'Brain imagining and phenotype in NKH [[Link](https://pubmed.ncbi.nlm.nih.gov/30737808/)]'
-            - 'Biocehmical and molecular predictors of prognosis [[Link](https://pubmed.ncbi.nlm.nih.gov/26179960/)]'
+            - 'Biochemical and molecular predictors of prognosis [[Link](https://pubmed.ncbi.nlm.nih.gov/26179960/)]'
           button:
             text: 'View all our publications'
             url: '/publications'
 
         - title: 'Rare metabolic epilepsies'
           text: |
-            We collaborate with several clinicican-scientists who are studying metabolic epilepsies. HCFC1 is a transcriptoinal regulator and mutations in HCFC1 can cause a severe neurologic phentoype, seizure or infantile spasms, and abnormal cobalmin metabolism. Along with Professors [Shaikh](https://som.cuanschutz.edu/Profiles/Faculty/Profile/7943) and van Hove, we described HCFC1 deficeincy and later show that this disorder can mimic abnormal biochemistry of NKH.  We also described the inital patient with CARS2 encephalopthay, a mitochondrial disorder and that presented with epileptic encpahlopathy, and a novel biomaker for ECHS1 where patients have leigh syndrome and (at least for most patients) seizures.  
+            We collaborate with several clinicican-scientists who are studying metabolic epilepsies. HCFC1 is a transcriptoinal regulator and mutations in *HCFC1* can cause a severe neurologic phentoype, seizure or infantile spasms, and abnormal cobalamin metabolism. Along with Professors [Shaikh](https://som.cuanschutz.edu/Profiles/Faculty/Profile/7943) and Van Hove, we described HCFC1 deficiency and showed that this disorder can mimic abnormal biochemistry of NKH. We also described the inital patient with CARS2 encephalopthay, a mitochondrial disorder that can present with epileptic encephalopathy, and a novel biomaker for ECHS1 where patients have leigh syndrome and seizures.  
           image: hcfc1.png
           feature_icon: emoji/dna
           features:
             - 'A rare X-linked cobalamin disorder: HCFC1 [[Link](https://pubmed.ncbi.nlm.nih.gov/24011988/)]'
-            - 'HCFC1 and elecated CSF glycine and MMA levels [[Link](https://pubmed.ncbi.nlm.nih.gov/28363510/)]' 
-            - 'Mutations in CARS2 leads to a severe epileptic encphalopathy [[Link](https://pubmed.ncbi.nlm.nih.gov/25787132/)]'
+            - 'HCFC1 and elevated CSF glycine and MMA levels [[Link](https://pubmed.ncbi.nlm.nih.gov/28363510/)]' 
+            - 'Mutations in CARS2 leads to a severe epileptic encephalopathy [[Link](https://pubmed.ncbi.nlm.nih.gov/25787132/)]'
             - 'The clinical and biochemical charecterization of ECHS1 defciency [[Link](https://pubmed.ncbi.nlm.nih.gov/26081110/)]'
           button:
             text: 'View all our publications'
@@ -95,30 +95,30 @@ sections:
     id: equipment
     content:
       title: Coughlin Research Laboratory Overview 
-      text: We are a translational reserch laboratory focused on patient-centered reserach.  We combine rigours scientic methods with patient engagement approaches. 
+      text: We are a translational research laboratory. We combine rigorous scientic methods with patient engagement approaches. 
       items:
         - name: 'Natural History Studies'
-          description: 'Clincical outcomes help prioritze reserch goals and provide critical control data in clincial trials'
+          description: 'Clinical outcomes help us prioritize research goals and provide critical control data in clincial trials'
           icon: emoji/clipboard
           
         - name: 'Record of Collaboration'
-          description: 'Collaboration with clinican and scientist advance research and translation of results to the bedside'
+          description: 'Collaboration with clinician-scientists advance research goals and speed translation of results to the bedside'
           icon: emoji/hospital
           
-        - name: 'Enagement Stratagies'
-          description: 'Partnerships with patients and families to enusre our reserach goals are patient-centered'
+        - name: 'Engagement Stratagies'
+          description: 'Partnerships with families help ensure our research goals are patient-centered and clinically meaningful'
           icon: emoji/family_man_man_girl_boy
           
         - name: 'Model Systems for Rare Disease'
-          description: 'Animal (zebrafish, mice) and human model systems to interrogate mechansim and novel treatments'
+          description: 'Animal and human model systems are used to interrogate disease mechansim and novel treatments'
           icon: emoji/mouse2
           
         - name: 'Omics Expertise'
-          description: 'Exerpience in  genonmics, metaoblimics, proteomics with a focus on disease mechanism'
+          description: 'Experience in  genomics, metabolomics, and proteomics with a focus on disease mechanism'
           icon: emoji/dna
           
         - name: 'Spectroscopy Laboratory'
-          description: 'Analytical instrumententaion with a focus on quantiative mass spectrometry approaches'
+          description: 'Analytical instrumentation with a focus on quantitative mass spectrometry approaches'
           icon: emoji/microscope
         
     design:
