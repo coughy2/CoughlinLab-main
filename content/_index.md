@@ -278,7 +278,7 @@ sections:
           description: International PDE Consortium 
         - name: ROAR
           image: partners/roar-logo.png
-          url: 
+          url: https://www.rarediseasesnetwork.org/roar
           external: true
           description: Rare Organic Acidemia Research
         - name: UCDC
