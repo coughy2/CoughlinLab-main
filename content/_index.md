@@ -266,7 +266,7 @@ sections:
           url: https://curepde.org/
           external: true
           description: CurePDE Foundation
-        - name: Curtis
+        - name: OAA
           image: partners/oaa-logo.png
           url: https://oaanews.org/
           external: true
