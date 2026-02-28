@@ -29,8 +29,8 @@ image:
   focal_point: Center
   
 links:
-  - name: Watch this lecture on youtube
-    url: https://www.youtube.com/watch?v=umeXn8e36FM
+  - name: Watch this lecture on our youtube channel
+    url: https://www.youtube.com/@CoughlinLab
     icon: hero/video-camera
 
 projects:
