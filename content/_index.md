@@ -266,26 +266,26 @@ sections:
           url: https://curepde.org/
           external: true
           description: CurePDE Foundation
-        - name: PDE consorium
-          image: partners/pde-logo.png
-          url: http://wwws.pdeonline.org/
-          external: true
-          description: International PDE Consortium 
-        - name: HCU America
-          image: partners/HCU-logo.png
-          url: https://hcunetworkamerica.org/
-          external: true
-          description: HCU Network America
         - name: OAA
           image: partners/OAA-logo.png
           url: https://oaanews.org/
           external: true
           description: Organic Acidemia Association
+        - name: PDE consorium
+          image: partners/pde-logo.png
+          url: http://wwws.pdeonline.org/
+          external: true
+          description: International PDE Consortium 
         - name: ROAR
           image: partners/roar-logo.png
           url: https://www.rarediseasesnetwork.org/roar
           external: true
           description: Rare Organic Acidemia Research
+        - name: HCU America
+          image: partners/HCU-logo.png
+          url: https://hcunetworkamerica.org/
+          external: true
+          description: HCU Network America
         - name: UCDC
           image: partners/ucdc-logo.png
           url: https://ucdc.rarediseasesnetwork.org/
