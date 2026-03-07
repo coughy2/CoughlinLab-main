@@ -11,7 +11,7 @@ organizations:
     url: https://www.cuanschutz.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Dinosaurs eat man. Woman inherits the earth. - Dr. Ellie Sattler" 
+bio: "Man destroys God. Man creates dinosaurs. Dinosaurs eat man. Woman inherits the earth."
 
 # Interests to show in About widget
 interests:
@@ -51,10 +51,12 @@ website: ""
 user_groups:
   - Researchers
 ---
+Kristie is a research scientist in the Coughlin Lab and Department of Pediatrics. Her work bridges analytical chemistry, clinical genetics, and patient-centered research to advance diagnosis and treatment in rare genetic disease. Kristie earned her Master of Public Health in Epidemiology from the Colorado School of Public Health.
 
-Kristie joined the Coughlin lab before there was a lab.  She started our zebrafish work and quickly became indispensible for every project. She was the first author of our recent [NBS-related work](https://pubmed.ncbi.nlm.nih.gov/39729892/), and leads our patient engagement activities. 
+She joined the lab before there was a physical lab. She started our zebrafish work and quickly became indispensible for every project. She was the first author of our recent NBS-related work, for which she won the [2025 Emmanuel Shapira Award](/blog/shapira) from SIMD. 
 
-There is a persistent rumor that she joined the group due to her love of Jurasic Park, which might explain the ever growing number of dinasours in the lab. 
+One of our primary focuses is disorders of lysine-metabolism. There is a persistent rumor that Kristie joined the group due to her love of Jurasic Park, which might explain the ever growing number of dinasours in the lab. 
+
 
 
 {{< youtube 9E8eV_ifz-c >}}
