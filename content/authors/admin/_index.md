@@ -99,10 +99,10 @@ user_groups:
 
 ## About the Lab
 
-Dr. Curtis Coughlin leads the research laboratory at the University of Colorado Anschutz. He completed his doctoral training with [Dr. Stephen Goodman](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jimd.12330), and fondly remembers coffee fueled discusions about GA1 with Drs. Goodman and Woontner.  He has been fortuante to have several excellent mentors through the various stages of his career. He prioritizes team-science and has worked with many amazing colleagues such as Professor [Sidney Gospe Jr](https://www.childneurologysociety.org/awards/sidney-m-gospe-jr/) and [Clara van Karnebeek](https://pure.amsterdamumc.nl/en/persons/clara-van-karnebeek/) who continue to teach him about pyridoxine-dependent epilepsy. 
+Dr. Curtis Coughlin leads the research laboratory at the University of Colorado Anschutz. He completed his doctoral training with [Dr. Stephen Goodman](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jimd.12330), and fondly remembers coffee fueled discussions about GA1 with Drs. Goodman and Woontner.  He has been fortunate to have several excellent mentors throughout his career. He prioritizes team-science and has worked with many amazing colleagues such as Professor [Sidney Gospe Jr](https://www.childneurologysociety.org/awards/sidney-m-gospe-jr/) and [Clara van Karnebeek](https://pure.amsterdamumc.nl/en/persons/clara-van-karnebeek/) who continue to teach him about pyridoxine-dependent epilepsy. 
 
 ## Leadership & Mentorship
 
-Dr. Coughlin has mentored several learners including indivduials in master degree and PhD progams, medical students and residents, and junior faculty members. He has completed several formal mentoring programs and is committed to fostering an inclusive and collaborative research environment where all team members can thrive.
+Dr. Coughlin has mentored several learners including individuals in master degree and PhD programs, medical students and residents, and junior faculty members. He has completed several formal mentoring programs and is committed to fostering an inclusive and collaborative research environment where all team members can thrive.
 
 ![Alt text](/coughlin2.jpg)

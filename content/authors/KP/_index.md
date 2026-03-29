@@ -55,7 +55,7 @@ Kristie is a research scientist in the Coughlin Lab and Department of Pediatrics
 
 She joined the lab before there was a physical lab. She started our zebrafish work and quickly became indispensible for every project. She was the first author of our recent NBS-related work, for which she won the [2025 Emmanuel Shapira Award](/blog/shapira) from SIMD. 
 
-One of our primary focuses is disorders of lysine-metabolism. There is a persistent rumor that Kristie joined the group due to her love of Jurasic Park, which might explain the ever growing number of dinasours in the lab. 
+One of our primary focuses is disorders of lysine-metabolism. There is a persistent rumor that Kristie joined the group due to her love of Jurassic Park, which might explain the ever growing number of dinosaurs in the lab. 
 
 
 
