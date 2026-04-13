@@ -1,0 +1,31 @@
+---
+title: Self-Reported Health-Related Quality of Life (HRQoL) in Adults With Urea Cycle Disorders
+authors:
+- admin
+- John Barber
+- Chaya N Murali
+- Members of the Urea Cycle Disorders Consoritum (UCDC)
+- Greta Wilkening 
+date: '2026-04-01'
+publishDate: '2026-04-01T01:49:05.162146Z'
+publication_types:
+- article-journal
+publication: 'J Inherit Metab Dis May;49(3):e70183'
+
+hugoblox:
+  ids:
+    doi: 10.1002/jimd.70183
+
+abstract: "Multiple studies have assessed Health-Related Quality of Life (HRQoL) in children with urea cycle disorders (UCDs); investigations in adults with the same disorders are rarer. Understanding the variables that modify self-reported HRQoL has become increasingly important as novel treatments are developed, with clinically meaningful endpoints required to assess efficacy. This was an ambispective study of participants enrolled in the Longitudinal Study of Urea Cycle Disorders (NCT00237315) conducted by the Urea Cycle Disorders Consortium (UCDC). Inclusion criteria included age ≥ 18 years and at least one completion of one of five HRQoL patient-reported outcome measures (PROMs). A total of 144 participants met inclusion criteria. Covariates included age at last assessment, sex at birth, specific UCD subtype, symptomatic status, treatments, and disease severity. The enrollees self-reported HRQoL T-scores were not significantly different from the normative population. Whereas participants categorized as asymptomatic differed from those categorized as symptomatic in terms of disease severity, age at last HRQoL, and full-scale IQ, overall HRQoL did not differ. A model including age, sex, specific UCD subtype, symptomatic status, and disease severity revealed that perceived cognitive function was related to specific UCD subtype, while Anxiety and Emotional and Behavioral Dyscontrol were associated with sex at birth. When post-liver transplant participants were excluded, the pattern of associations was unchanged. Among adults with UCDs, responses on HRQoL measures revealed no significant differences in HRQoL when compared to normative populations. Cognitive reserve did not moderate the impact of diagnosis or treatment. Additional work in understanding and measuring HRQoL in this population is required"
+
+summary: This paper evaluated self-reported health-quality of life in adults with a urea cycle disorders
+
+tags:
+- Urea Cycle Disorders
+- Quality of life 
+- Consrotia 
+- UCDC 
+
+projects: 
+featured: false 
+---
