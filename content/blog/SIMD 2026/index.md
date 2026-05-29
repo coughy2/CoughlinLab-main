@@ -5,8 +5,8 @@ date: 2026-05-22
 authors:
   - admin
 tags:
-  - PDE-ALDH7A1
   - IEM
+  - SIMD
 image:
   caption: ''
   focal_point: Middle
@@ -19,12 +19,17 @@ We attended the annual Society of Inherited Metabolic Disorders (SIMD) meeting i
 ![Alt text](/kp_talk2.jpg)
 
 
-{{<icon name = "cake" >}} Kristie received the [Emmanual Shapria Award](/blog/shapira) from Deb Regier, MD, PhD (President of SIMD) and Kristie Wees (Executive Director). This is the second Emmanual Shapira Award bestowed on our laboratory for work focused on PDE-ALDH7A1, and we are excited to hang both awards in the lab.   
+{{<icon name = "cake" >}} Kristie received the [Emmanual Shapira Award](/blog/shapira) from Deb Regier, MD, PhD (President of SIMD) and Kristi Wees (Executive Director). This is the second Emmanual Shapira Award bestowed on our laboratory for work focused on PDE-ALDH7A1, and we are excited to hang both awards in the lab.   
 
 ![Alt text](/award2.jpg)
 
 
-{{<icon name = "beaker" >}} Nicole presented two posters at the meeting:   A second poster on "Deep Intronic Variants as a Cause of OTC Deficiency which was a collaboration with Drs. Shawn McCandless (pictured), [Sujatha Jagannathan](https://www.jagannathan-lab.org/), and Tamim Shaikh. 
+{{<icon name = "beaker" >}} Nicole presented two posters at the meeting:  "Functional Characterization Of ALDH7A1 Variants in Late-Onset Pyridoxine-Dependent Epilepsy," is a result of her work in the Coughlin Lab. 
+
+
+![Alt text](nicole.jpg)
+
+And a second poster on "Deep Intronic Variants as a Cause of OTC Deficiency," which was a collaboration with Drs. Shawn McCandless (pictured), [Sujatha Jagannathan](https://www.jagannathan-lab.org/), and Tamim Shaikh. 
 
 ![Alt text](/poster.jpg)
 
