@@ -10,8 +10,8 @@ address:
   postcode: 
   country: 
 
-summary: PDE-ALDH7A1 confernece at Oslo Univeristy Hospital 
-abstract: 'This lecture will focus on the consensus guidelines published by the PDE Consoritum and updates on reserach activities'
+summary: CurePDE webinar
+abstract: 'This webinair will be a general overview of pyridoxine-dependent epilepsy with small updates from the Coughlin Lab' 
 
 date: '2026-06-02T16:00:00Z'
 date_end: 
