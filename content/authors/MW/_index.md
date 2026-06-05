@@ -3,7 +3,7 @@
 title: Michael Woontner
 
 # Role/position/tagline
-role: Associate Professor (semi-retired)
+role: Associate Professor (retired)
 
 # Organizations/Affiliations to show in About widget
 organizations:

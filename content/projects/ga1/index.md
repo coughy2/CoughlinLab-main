@@ -135,11 +135,13 @@ sections:
 
         2. **Coughlin CR 2nd** (2022) Glutaric Aciduria Type I: Diagnosis and Management. In: L Bernstein, F Rohr, S van Calcar (eds). Nutrition Management of Inherited Metabolic Diseases: Lessons from Metabolic University 2nd edition. pp. 277-284. Cham, Switzerland: Springer Nature. [Link](https://link.springer.com/book/10.1007/978-3-030-94510-7)
 
+        3. Larson A, **Coughlin C II** (2026) Glutaric Aciduria Type 1. In: Adam MP, Bick S, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews® [Internet]. Seattle (WA): University of Washington, Seattle; 1993–2026. 2019 Sep 19 [updated 2026 Jun 4]. [Link](https://www.ncbi.nlm.nih.gov/books/NBK546575/)
+
         Articles highlighed from Dr. Micheal Woontner
 
-        3. Goodman SI, **Woontner M**. And explanation for metabolite exretion in high- and low-excretor patietns with glutaric acidemia type 1. Mol Genet Metab. 2019 Aug;127(4):325-326 [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9754645/)
+        4. Goodman SI, **Woontner M**. And explanation for metabolite exretion in high- and low-excretor patietns with glutaric acidemia type 1. Mol Genet Metab. 2019 Aug;127(4):325-326 [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9754645/)
         
-        4. **Woontner M**, Crini LS, Koeller DM. Analysis of the expression of murine glutaryl-CoA dehydrogenase: in vitro and in vivo studies. Mol Genet Metab. 2000 Feb;69(2):116-22. [Link](https://pubmed.ncbi.nlm.nih.gov/10720438/)
+        5. **Woontner M**, Crini LS, Koeller DM. Analysis of the expression of murine glutaryl-CoA dehydrogenase: in vitro and in vivo studies. Mol Genet Metab. 2000 Feb;69(2):116-22. [Link](https://pubmed.ncbi.nlm.nih.gov/10720438/)
         
         </small> 
         

@@ -141,6 +141,7 @@ sections:
       user_groups:
         - Researchers
         - Graduate Students
+        - Students
         - Alumni
       sort_by: 'Params.last_name'
       sort_ascending: true
