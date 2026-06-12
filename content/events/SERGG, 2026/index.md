@@ -10,7 +10,7 @@ address:
   postcode: 28801
   country: United States
 
-summary: This lecture will foucs on current and future treatments for PDE-ALDH7A1
+summary: This lecture will focus on current and future treatments for PDE-ALDH7A1
 abstract: 'This lecture will discuss the association between early treatment and improved clinical outcomes with an empahsis on current treatment guidelines.  The lecture will also focus on research updates ranging from newborn screening and genetic-based theraputic approaches.' 
 
 date: '2026-07-17T16:00:00Z'
