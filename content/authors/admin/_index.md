@@ -5,7 +5,7 @@ title: Curtis Coughlin II
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor
+role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
