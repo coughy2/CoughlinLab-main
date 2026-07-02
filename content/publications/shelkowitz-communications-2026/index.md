@@ -14,10 +14,10 @@ authors:
 - admin
 - Aaron Wightman
 date: '2026-04-13'
-publishDate: '2026-04-13T01:49:05.162146Z'
+publishDate: '2026-06-28T01:49:05.162146Z'
 publication_types:
 - article-journal
-publication: 'Genet Med. April 13:102581'
+publication: 'Genet Med. Jun;28(6):102581'
 
 hugoblox:
   ids:
