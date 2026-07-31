@@ -1,5 +1,5 @@
 ---
-title: CurePDE 2026 Family Retreat
+title: CurePDE 2025 Family Retreat
 summary: The second annual retreat with an oppritunity to connect, learn and build community. 
 date: 2025-10-04
 authors:
