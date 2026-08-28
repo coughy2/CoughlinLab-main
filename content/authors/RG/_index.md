@@ -45,7 +45,7 @@ website: ""
 
 # User groups
 user_groups:
-  - Students
+  - Alumni
 ---
 
 Ryan joined the lab as a volunteer this summer. He brings enthusiasm and zebrafish experience from his undergrad year at Georgetown.  He will spend the summer working closely with Kristie to expand our metabolic phenotyping of our zebrafish models and gain experience studying inborn errors of metabolism. 

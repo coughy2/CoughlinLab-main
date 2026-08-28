@@ -29,3 +29,10 @@ We were so grateful to attend the 2025 [CurePDE](https://curepde.org/) family re
 ![Alt text](/kids.jpg)
 
 ![Alt text](/party.jpg)
+
+{{<icon name = "cake" >}} But certainly our favorite part of the meeting is getting to know all of the families so well.  Thank you again for allowing us to be part of this community! 
+
+
+![Alt text](/kids.jpg)
+
+![Alt text](/party.jpg)
