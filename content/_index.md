@@ -312,10 +312,14 @@ sections:
       connect_title: 'Connect'
       address:
         lines:
-          - University of Colorado Anschutz 
+          - For USPS
           - 12800 E. 17th Ave
-          - RC1 North, P18-3401A
           - Mail stop 8313
+          - Aurora, CO 80045
+          -  --------------
+          - For FEDEX, UPS, or DHL
+          - 12800 E. 19th Ave
+          - P18-3401A
           - Aurora, CO 80045
       Univerity of Colorado Anschutz:
       email: 'Coughlin.Lab@CUAnschutz.edu'
