@@ -35,3 +35,5 @@ projects:
 The Southeastern Regional Genetics Group (SERGG) is a non-profit 501c3 whose members include healthcare professionals involved in genetic services and newborn screening in Alabama, Florida, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, and Tennessee.
 
 One of the goals of SERGG is to address the inequities in genetic service and resources in the region and to expand existing regional capabilities and resources and to develop new regional systems to address these gaps.  Another goal is to improve the existing regional communication infrastructure and to facilitate information sharing among providers of genetic services and consumers and to establish collaborative partnerships with other professional organizations.
+
+{{< youtube vEhK1TsXBco >}}
