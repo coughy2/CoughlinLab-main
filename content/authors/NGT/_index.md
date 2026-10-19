@@ -3,7 +3,7 @@
 title: Nicole García Tubéns
 
 # Role/position/tagline
-role: PhD Student (2nd year)
+role: PhD Student (3rd year)
 
 # Organizations/Affiliations to show in About widget
 organizations:

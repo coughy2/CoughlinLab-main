@@ -28,6 +28,11 @@ image:
       '
   focal_point: Center
 
+links:
+  - name: Watch this lecture on YouTube
+    url: https://www.youtube.com/watch?v=vEhK1TsXBco&t=1041s
+    icon: hero/video-camera
+
 projects:
   - PDE-ALDH7A1
 ---
