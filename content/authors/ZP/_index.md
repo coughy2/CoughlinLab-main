@@ -11,7 +11,7 @@ organizations:
     url: https://www.example.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: First year studen in the MS Genetic Counseling progam
+bio: First year student in the MS Genetic Counseling progam
 
 # Interests to show in About widget
 interests:
