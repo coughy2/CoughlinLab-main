@@ -20,7 +20,7 @@ all_day: true
 publishDate: '2026-05-24T00:00:00Z'
 
 authors: ["admin"]
-tags: ["PDE-ALDH7A1", "NBS", "therapy"]
+tags: ["Recorded Lecture", "PDE-ALDH7A1", "NBS"]
 featured: false
 
 image:

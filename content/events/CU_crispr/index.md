@@ -20,7 +20,7 @@ all_day: true
 publishDate: '2024-06-24T00:00:00Z'
 
 authors: ["admin"]
-tags: ["Lecture", "Ethics", "Crispr"]
+tags: ["Recorded Lecture", "Ethics", "Crispr"]
 featured: false
 
 image:
@@ -38,7 +38,7 @@ projects:
   - quantum-materials-design
 ---
 
-### Podcast Overview
+### Lecture Overview
 A panel discussion of the ethics surrounding CRISPR technology and its potential uses in clinical and research practices on June 24, 2024, was sponsored by the Bioethics and Humanities Student Group.
 
 Panelists: Christopher McKinney, MD, CU-SOM Hematology/Oncology and Sickle Cell Disease specialist at Children's Hospital Colorado, Curtis R. Coughlin II, PhD, MS, MBE, CU-SOM Pediatrics, and Lindsay Brubaker, MD, CU-SOM, Gynecologic Oncology Moderated by Arjun Singh, MS1, CU School of Medicine, Class of 2027

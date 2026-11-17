@@ -20,7 +20,7 @@ all_day: true
 publishDate: '2026-11-01T00:00:00Z'
 
 authors: ["admin"]
-tags: ["Ethics", "Podcast"]
+tags: ["Podcast", "Ethics"]
 featured: false
 
 image:

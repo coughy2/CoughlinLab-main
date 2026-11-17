@@ -20,7 +20,7 @@ all_day: true
 publishDate: '2023-05-11T00:00:00Z'
 
 authors: ["admin"]
-tags: ["Podcast", "Ethics"]
+tags: ["Recorded Lecture", "Ethics"]
 featured: false
 
 image:
@@ -38,7 +38,7 @@ projects:
   - ethics
 ---
 
-### Podcast Overview
+### Lecture Overview
 In this May 11, 2023 presentation and discussion, Christina Aquilante, PharmD, FCCP, Curtis R. Coughlin, II, PhD, MS, MBE, HEC-C, and Emily Todd, MS, CGC, described key features of the Colorado Center for Personalized Medicine biobank, identified and analyzed ethical issues associated with return of clinical pharmacogenomic results and high impact pathogenic variants from a population biobank, and addressed approaches to maximize participant benefit and autonomy in the biobank model.  Moderated by Jackie Glover, PhD. Ethics Grand Rounds is co-sponsored by the CU Center for Bioethics and Humanities and UCHealth.
 
 {{< youtube Yd0WHjMVF8g >}}

@@ -20,7 +20,7 @@ all_day: true
 publishDate: '2026-02-03T00:00:00Z'
 
 authors: ["admin"]
-tags: ["PDE-ALDH7A1"]
+tags: ["Recorded Lecture", "PDE-ALDH7A1"]
 featured: false
 
 image:

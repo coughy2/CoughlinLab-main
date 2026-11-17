@@ -20,7 +20,7 @@ all_day: true
 publishDate: '2026-02-25T00:00:00Z'
 
 authors: ["admin"]
-tags: ["GA1"]
+tags: ["Recorded Lecture", "GA1"]
 featured: false
 
 image:
